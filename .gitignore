@@ -1,0 +1,37 @@
+# Python
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Environment / secrets
+.env
+.env.*
+!.env.example
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Generated FAISS artifacts
+faiss_index.bin
+faiss_metadata.pkl
+
+# Model / cache directories
+.cache/
+huggingface/
+
+# Kestra local runtime data
+.kestra/
+
+# PostgreSQL / local data
+pgdata/
+
+# Assessment brief
+Data Engineer Take-Home Assessment.docx

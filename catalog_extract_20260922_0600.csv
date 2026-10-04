@@ -1,0 +1,1217 @@
+item_code,variant_code,variant_ref,item_name,brand_name,category_path,unit_price,color_name,size_label,stock_status,new_in_stock_date,source_file,loaded_at
+IT-10000,VC-10000-A,V-A,Ribbed Knit Jumper,Blackwood Supply,Womens > Knitwear > Jumpers,91.93,Charcoal,XS,out_of_stock,2026-09-19,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10000,VC-10000-B,V-B,Ribbed Knit Jumper,Blackwood Supply,Womens > Knitwear > Jumpers,94.93,Charcoal,S,in_stock,2026-09-19,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10000,VC-10000-C,V-C,Ribbed Knit Jumper,Blackwood Supply,Womens > Knitwear > Jumpers,91.93,Charcoal,M,in_stock,2026-09-19,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10000,VC-10000-D,V-D,Ribbed Knit Jumper,Blackwood Supply,Womens > Knitwear > Jumpers,92.93,Charcoal,L,low_stock,2026-09-19,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10000,VC-10000-E,V-E,Ribbed Knit Jumper,Blackwood Supply,Womens > Knitwear > Jumpers,96.93,Charcoal,XL,in_stock,2026-09-19,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10000,VC-10000-F,V-F,Ribbed Knit Jumper,Blackwood Supply,Womens > Knitwear > Jumpers,99.93,Cream,XS,out_of_stock,2026-09-19,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10000,VC-10000-G,V-G,Ribbed Knit Jumper,Blackwood Supply,Womens > Knitwear > Jumpers,94.93,Cream,M,in_stock,2026-09-19,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10000,VC-10000-H,V-H,Ribbed Knit Jumper,Blackwood Supply,Womens > Knitwear > Jumpers,92.93,Cream,L,in_stock,2026-09-19,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10000,VC-10000-I,V-I,Ribbed Knit Jumper,Blackwood Supply,Womens > Knitwear > Jumpers,94.93,Forest Green,S,in_stock,2026-09-19,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10000,VC-10000-J,V-J,Ribbed Knit Jumper,Blackwood Supply,Womens > Knitwear > Jumpers,96.93,Forest Green,M,in_stock,2026-09-19,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10000,VC-10000-K,V-K,Ribbed Knit Jumper,Blackwood Supply,Womens > Knitwear > Jumpers,96.93,Forest Green,L,in_stock,2026-09-19,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10000,VC-10000-L,V-L,Ribbed Knit Jumper,Blackwood Supply,Womens > Knitwear > Jumpers,94.93,Forest Green,XL,in_stock,2026-09-19,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10000,VC-10000-M,V-M,Ribbed Knit Jumper,Blackwood Supply,Womens > Knitwear > Jumpers,94.93,Rust,S,in_stock,2026-09-19,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10000,VC-10000-N,V-N,Ribbed Knit Jumper,Blackwood Supply,Womens > Knitwear > Jumpers,96.93,Rust,L,in_stock,2026-09-19,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10000,VC-10000-O,V-O,Ribbed Knit Jumper,Blackwood Supply,Womens > Knitwear > Jumpers,96.93,Navy,XS,low_stock,2026-09-19,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10000,VC-10000-P,V-P,Ribbed Knit Jumper,Blackwood Supply,Womens > Knitwear > Jumpers,91.93,Navy,S,in_stock,2026-09-19,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10000,VC-10000-Q,V-Q,Ribbed Knit Jumper,Blackwood Supply,Womens > Knitwear > Jumpers,96.93,Navy,M,in_stock,2026-09-19,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10000,VC-10000-R,V-R,Ribbed Knit Jumper,Blackwood Supply,Womens > Knitwear > Jumpers,99.93,Navy,L,in_stock,2026-09-19,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10000,VC-10000-S,V-S,Ribbed Knit Jumper,Blackwood Supply,Womens > Knitwear > Jumpers,92.93,Navy,XL,low_stock,2026-09-19,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10001,VC-10001-A,V-A,Wrap Midi Dress,Harlow & Vane,Womens > Dresses > Midi,79.56,Black,6,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10001,VC-10001-B,V-B,Wrap Midi Dress,Harlow & Vane,Womens > Dresses > Midi,72.56,Black,8,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10001,VC-10001-C,V-C,Wrap Midi Dress,Harlow & Vane,Womens > Dresses > Midi,74.56,Black,10,out_of_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10001,VC-10001-D,V-D,Wrap Midi Dress,Harlow & Vane,Womens > Dresses > Midi,74.56,Black,12,out_of_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10001,VC-10001-E,V-E,Wrap Midi Dress,Harlow & Vane,Womens > Dresses > Midi,72.56,Black,14,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10001,VC-10001-F,V-F,Wrap Midi Dress,Harlow & Vane,Womens > Dresses > Midi,79.56,Terracotta,6,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10001,VC-10001-G,V-G,Wrap Midi Dress,Harlow & Vane,Womens > Dresses > Midi,71.56,Terracotta,8,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10001,VC-10001-H,V-H,Wrap Midi Dress,Harlow & Vane,Womens > Dresses > Midi,74.56,Terracotta,10,low_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10001,VC-10001-I,V-I,Wrap Midi Dress,Harlow & Vane,Womens > Dresses > Midi,79.56,Terracotta,12,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10001,VC-10001-J,V-J,Wrap Midi Dress,Harlow & Vane,Womens > Dresses > Midi,79.56,Terracotta,14,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10001,VC-10001-K,V-K,Wrap Midi Dress,Harlow & Vane,Womens > Dresses > Midi,71.56,Olive,6,low_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10001,VC-10001-L,V-L,Wrap Midi Dress,Harlow & Vane,Womens > Dresses > Midi,79.56,Olive,8,low_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10001,VC-10001-M,V-M,Wrap Midi Dress,Harlow & Vane,Womens > Dresses > Midi,79.56,Olive,10,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10001,VC-10001-N,V-N,Wrap Midi Dress,Harlow & Vane,Womens > Dresses > Midi,76.56,Olive,12,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10001,VC-10001-O,V-O,Wrap Midi Dress,Harlow & Vane,Womens > Dresses > Midi,74.56,Olive,14,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10001,VC-10001-P,V-P,Wrap Midi Dress,Harlow & Vane,Womens > Dresses > Midi,74.56,Navy,6,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10001,VC-10001-Q,V-Q,Wrap Midi Dress,Harlow & Vane,Womens > Dresses > Midi,74.56,Navy,8,out_of_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10001,VC-10001-R,V-R,Wrap Midi Dress,Harlow & Vane,Womens > Dresses > Midi,71.56,Navy,10,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10001,VC-10001-S,V-S,Wrap Midi Dress,Harlow & Vane,Womens > Dresses > Midi,74.56,Navy,12,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10001,VC-10001-T,V-T,Wrap Midi Dress,Harlow & Vane,Womens > Dresses > Midi,74.56,Navy,14,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10001,VC-10001-U,V-U,Wrap Midi Dress,Harlow & Vane,Womens > Dresses > Midi,76.56,Blush,8,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10001,VC-10001-V,V-V,Wrap Midi Dress,Harlow & Vane,Womens > Dresses > Midi,74.56,Blush,10,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10001,VC-10001-W,V-W,Wrap Midi Dress,Harlow & Vane,Womens > Dresses > Midi,74.56,Blush,12,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10001,VC-10001-X,V-X,Wrap Midi Dress,Harlow & Vane,Womens > Dresses > Midi,76.56,Blush,14,low_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10002,VC-10002-A,V-A,Linen Blend Shirt,Northfield,Mens > Shirts > Casual,39.07,White,S,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10002,VC-10002-B,V-B,Linen Blend Shirt,Northfield,Mens > Shirts > Casual,36.07,White,M,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10002,VC-10002-C,V-C,Linen Blend Shirt,Northfield,Mens > Shirts > Casual,41.07,White,L,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10002,VC-10002-D,V-D,Linen Blend Shirt,Northfield,Mens > Shirts > Casual,39.07,White,XL,out_of_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10002,VC-10002-E,V-E,Linen Blend Shirt,Northfield,Mens > Shirts > Casual,39.07,White,XXL,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10002,VC-10002-F,V-F,Linen Blend Shirt,Northfield,Mens > Shirts > Casual,39.07,Sky Blue,S,out_of_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10002,VC-10002-G,V-G,Linen Blend Shirt,Northfield,Mens > Shirts > Casual,39.07,Sky Blue,L,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10002,VC-10002-H,V-H,Linen Blend Shirt,Northfield,Mens > Shirts > Casual,39.07,Sky Blue,XL,low_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10002,VC-10002-I,V-I,Linen Blend Shirt,Northfield,Mens > Shirts > Casual,36.07,Sky Blue,XXL,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10002,VC-10002-J,V-J,Linen Blend Shirt,Northfield,Mens > Shirts > Casual,39.07,Charcoal,S,out_of_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10002,VC-10002-K,V-K,Linen Blend Shirt,Northfield,Mens > Shirts > Casual,39.07,Charcoal,M,low_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10002,VC-10002-L,V-L,Linen Blend Shirt,Northfield,Mens > Shirts > Casual,41.07,Charcoal,L,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10002,VC-10002-M,V-M,Linen Blend Shirt,Northfield,Mens > Shirts > Casual,44.07,Charcoal,XL,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10002,VC-10002-N,V-N,Linen Blend Shirt,Northfield,Mens > Shirts > Casual,39.07,Charcoal,XXL,out_of_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10002,VC-10002-O,V-O,Linen Blend Shirt,Northfield,Mens > Shirts > Casual,39.07,Olive,S,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10002,VC-10002-P,V-P,Linen Blend Shirt,Northfield,Mens > Shirts > Casual,37.07,Olive,L,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10002,VC-10002-Q,V-Q,Linen Blend Shirt,Northfield,Mens > Shirts > Casual,37.07,Olive,XL,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10003,VC-10003-A,V-A,Waxed Field Jacket,Trestle Co,Mens > Outerwear > Jackets,130.61,Black,S,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10003,VC-10003-B,V-B,Waxed Field Jacket,Trestle Co,Mens > Outerwear > Jackets,127.61,Black,M,out_of_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10003,VC-10003-C,V-C,Waxed Field Jacket,Trestle Co,Mens > Outerwear > Jackets,125.61,Black,XL,low_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10003,VC-10003-D,V-D,Waxed Field Jacket,Trestle Co,Mens > Outerwear > Jackets,127.61,Navy,S,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10003,VC-10003-E,V-E,Waxed Field Jacket,Trestle Co,Mens > Outerwear > Jackets,130.61,Navy,M,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10003,VC-10003-F,V-F,Waxed Field Jacket,Trestle Co,Mens > Outerwear > Jackets,123.61,Navy,L,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10003,VC-10003-G,V-G,Waxed Field Jacket,Trestle Co,Mens > Outerwear > Jackets,127.61,Navy,XL,out_of_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10003,VC-10003-H,V-H,Waxed Field Jacket,Trestle Co,Mens > Outerwear > Jackets,125.61,Stone,S,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10003,VC-10003-I,V-I,Waxed Field Jacket,Trestle Co,Mens > Outerwear > Jackets,122.61,Stone,M,low_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10003,VC-10003-J,V-J,Waxed Field Jacket,Trestle Co,Mens > Outerwear > Jackets,125.61,Stone,XL,out_of_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10004,VC-10004-A,V-A,Canvas Weekend Bag,Northfield,Accessories > Bags,91.57,Olive,OS,out_of_stock,2026-09-20,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10004,VC-10004-B,V-B,Canvas Weekend Bag,Northfield,Accessories > Bags,91.57,Black,OS,low_stock,2026-09-20,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10004,VC-10004-C,V-C,Canvas Weekend Bag,Northfield,Accessories > Bags,91.57,Tan,OS,low_stock,2026-09-20,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10004,VC-10004-D,V-D,Canvas Weekend Bag,Northfield,Accessories > Bags,93.57,Rust,OS,low_stock,2026-09-20,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10005,VC-10005-A,V-A,Wool Scarf,Trestle Co,Accessories > Scarves,35.15,Charcoal,OS,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10005,VC-10005-B,V-B,Wool Scarf,Trestle Co,Accessories > Scarves,30.15,Camel,OS,low_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10005,VC-10005-C,V-C,Wool Scarf,Trestle Co,Accessories > Scarves,30.15,Burgundy,OS,low_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10006,VC-10006-A,V-A,Lace-Up Work Boot,Blackwood Supply,Footwear > Boots,91.97,Black,6,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10006,VC-10006-B,V-B,Lace-Up Work Boot,Blackwood Supply,Footwear > Boots,91.97,Black,7,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10006,VC-10006-C,V-C,Lace-Up Work Boot,Blackwood Supply,Footwear > Boots,93.97,Black,9,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10006,VC-10006-D,V-D,Lace-Up Work Boot,Blackwood Supply,Footwear > Boots,88.97,Black,10,low_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10006,VC-10006-E,V-E,Lace-Up Work Boot,Blackwood Supply,Footwear > Boots,91.97,Black,11,low_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10006,VC-10006-F,V-F,Lace-Up Work Boot,Blackwood Supply,Footwear > Boots,89.97,Tan,6,low_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10006,VC-10006-G,V-G,Lace-Up Work Boot,Blackwood Supply,Footwear > Boots,96.97,Tan,7,out_of_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10006,VC-10006-H,V-H,Lace-Up Work Boot,Blackwood Supply,Footwear > Boots,88.97,Tan,8,out_of_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10006,VC-10006-I,V-I,Lace-Up Work Boot,Blackwood Supply,Footwear > Boots,88.97,Tan,9,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10006,VC-10006-J,V-J,Lace-Up Work Boot,Blackwood Supply,Footwear > Boots,91.97,Tan,10,low_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10006,VC-10006-K,V-K,Lace-Up Work Boot,Blackwood Supply,Footwear > Boots,93.97,Tan,11,out_of_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10006,VC-10006-L,V-L,Lace-Up Work Boot,Blackwood Supply,Footwear > Boots,89.97,Brown,6,low_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10006,VC-10006-M,V-M,Lace-Up Work Boot,Blackwood Supply,Footwear > Boots,91.97,Brown,7,low_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10006,VC-10006-N,V-N,Lace-Up Work Boot,Blackwood Supply,Footwear > Boots,93.97,Brown,9,low_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10006,VC-10006-O,V-O,Lace-Up Work Boot,Blackwood Supply,Footwear > Boots,96.97,Brown,10,low_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10006,VC-10006-P,V-P,Lace-Up Work Boot,Blackwood Supply,Footwear > Boots,91.97,Brown,11,out_of_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10007,VC-10007-A,V-A,Retro Runner,Trestle Co,Footwear > Sneakers,56.75,White,6,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10007,VC-10007-B,V-B,Retro Runner,Trestle Co,Footwear > Sneakers,61.75,White,8,low_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10007,VC-10007-C,V-C,Retro Runner,Trestle Co,Footwear > Sneakers,56.75,White,10,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10007,VC-10007-D,V-D,Retro Runner,Trestle Co,Footwear > Sneakers,56.75,White,11,low_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10007,VC-10007-E,V-E,Retro Runner,Trestle Co,Footwear > Sneakers,61.75,Black,6,low_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10007,VC-10007-F,V-F,Retro Runner,Trestle Co,Footwear > Sneakers,53.75,Black,7,low_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10007,VC-10007-G,V-G,Retro Runner,Trestle Co,Footwear > Sneakers,56.75,Black,9,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10007,VC-10007-H,V-H,Retro Runner,Trestle Co,Footwear > Sneakers,61.75,Black,10,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10007,VC-10007-I,V-I,Retro Runner,Trestle Co,Footwear > Sneakers,54.75,Black,11,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10007,VC-10007-J,V-J,Retro Runner,Trestle Co,Footwear > Sneakers,56.75,Grey,6,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10007,VC-10007-K,V-K,Retro Runner,Trestle Co,Footwear > Sneakers,56.75,Grey,7,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10007,VC-10007-L,V-L,Retro Runner,Trestle Co,Footwear > Sneakers,54.75,Grey,8,low_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10007,VC-10007-M,V-M,Retro Runner,Trestle Co,Footwear > Sneakers,61.75,Grey,9,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10007,VC-10007-N,V-N,Retro Runner,Trestle Co,Footwear > Sneakers,58.75,Grey,11,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10008,VC-10008-A,V-A,Ribbed Knit Jumper,Northfield,Womens > Knitwear > Jumpers,84.56,Charcoal,XS,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10008,VC-10008-B,V-B,Ribbed Knit Jumper,Northfield,Womens > Knitwear > Jumpers,84.56,Charcoal,S,out_of_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10008,VC-10008-C,V-C,Ribbed Knit Jumper,Northfield,Womens > Knitwear > Jumpers,84.56,Charcoal,M,low_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10008,VC-10008-D,V-D,Ribbed Knit Jumper,Northfield,Womens > Knitwear > Jumpers,82.56,Charcoal,L,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10008,VC-10008-E,V-E,Ribbed Knit Jumper,Northfield,Womens > Knitwear > Jumpers,89.56,Charcoal,XL,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10008,VC-10008-F,V-F,Ribbed Knit Jumper,Northfield,Womens > Knitwear > Jumpers,89.56,Cream,S,out_of_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10008,VC-10008-G,V-G,Ribbed Knit Jumper,Northfield,Womens > Knitwear > Jumpers,89.56,Cream,M,out_of_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10008,VC-10008-H,V-H,Ribbed Knit Jumper,Northfield,Womens > Knitwear > Jumpers,84.56,Cream,L,out_of_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10008,VC-10008-I,V-I,Ribbed Knit Jumper,Northfield,Womens > Knitwear > Jumpers,84.56,Cream,XL,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10008,VC-10008-J,V-J,Ribbed Knit Jumper,Northfield,Womens > Knitwear > Jumpers,84.56,Forest Green,XS,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10008,VC-10008-K,V-K,Ribbed Knit Jumper,Northfield,Womens > Knitwear > Jumpers,89.56,Forest Green,S,low_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10008,VC-10008-L,V-L,Ribbed Knit Jumper,Northfield,Womens > Knitwear > Jumpers,86.56,Forest Green,L,low_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10008,VC-10008-M,V-M,Ribbed Knit Jumper,Northfield,Womens > Knitwear > Jumpers,84.56,Forest Green,XL,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10008,VC-10008-N,V-N,Ribbed Knit Jumper,Northfield,Womens > Knitwear > Jumpers,86.56,Rust,XS,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10008,VC-10008-O,V-O,Ribbed Knit Jumper,Northfield,Womens > Knitwear > Jumpers,84.56,Rust,S,low_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10008,VC-10008-P,V-P,Ribbed Knit Jumper,Northfield,Womens > Knitwear > Jumpers,89.56,Rust,M,out_of_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10008,VC-10008-Q,V-Q,Ribbed Knit Jumper,Northfield,Womens > Knitwear > Jumpers,89.56,Rust,L,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10008,VC-10008-R,V-R,Ribbed Knit Jumper,Northfield,Womens > Knitwear > Jumpers,81.56,Rust,XL,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10008,VC-10008-S,V-S,Ribbed Knit Jumper,Northfield,Womens > Knitwear > Jumpers,82.56,Navy,XS,low_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10008,VC-10008-T,V-T,Ribbed Knit Jumper,Northfield,Womens > Knitwear > Jumpers,86.56,Navy,S,low_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10008,VC-10008-U,V-U,Ribbed Knit Jumper,Northfield,Womens > Knitwear > Jumpers,84.56,Navy,M,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10008,VC-10008-V,V-V,Ribbed Knit Jumper,Northfield,Womens > Knitwear > Jumpers,89.56,Navy,XL,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10009,VC-10009-A,V-A,Belted Shirt Dress,Cedarcross,Womens > Dresses > Midi,92.53,Black,6,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10009,VC-10009-B,V-B,Belted Shirt Dress,Cedarcross,Womens > Dresses > Midi,90.53,Black,8,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10009,VC-10009-C,V-C,Belted Shirt Dress,Cedarcross,Womens > Dresses > Midi,90.53,Black,12,out_of_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10009,VC-10009-D,V-D,Belted Shirt Dress,Cedarcross,Womens > Dresses > Midi,92.53,Black,14,low_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10009,VC-10009-E,V-E,Belted Shirt Dress,Cedarcross,Womens > Dresses > Midi,90.53,Terracotta,6,low_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10009,VC-10009-F,V-F,Belted Shirt Dress,Cedarcross,Womens > Dresses > Midi,87.53,Terracotta,8,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10009,VC-10009-G,V-G,Belted Shirt Dress,Cedarcross,Womens > Dresses > Midi,92.53,Terracotta,10,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10009,VC-10009-H,V-H,Belted Shirt Dress,Cedarcross,Womens > Dresses > Midi,90.53,Terracotta,12,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10009,VC-10009-I,V-I,Belted Shirt Dress,Cedarcross,Womens > Dresses > Midi,90.53,Terracotta,14,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10009,VC-10009-J,V-J,Belted Shirt Dress,Cedarcross,Womens > Dresses > Midi,92.53,Olive,6,out_of_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10009,VC-10009-K,V-K,Belted Shirt Dress,Cedarcross,Womens > Dresses > Midi,92.53,Olive,8,low_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10009,VC-10009-L,V-L,Belted Shirt Dress,Cedarcross,Womens > Dresses > Midi,90.53,Olive,10,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10009,VC-10009-M,V-M,Belted Shirt Dress,Cedarcross,Womens > Dresses > Midi,95.53,Navy,8,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10009,VC-10009-N,V-N,Belted Shirt Dress,Cedarcross,Womens > Dresses > Midi,90.53,Navy,12,out_of_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10009,VC-10009-O,V-O,Belted Shirt Dress,Cedarcross,Womens > Dresses > Midi,90.53,Navy,14,out_of_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10009,VC-10009-P,V-P,Belted Shirt Dress,Cedarcross,Womens > Dresses > Midi,87.53,Blush,6,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10009,VC-10009-Q,V-Q,Belted Shirt Dress,Cedarcross,Womens > Dresses > Midi,90.53,Blush,8,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10009,VC-10009-R,V-R,Belted Shirt Dress,Cedarcross,Womens > Dresses > Midi,92.53,Blush,10,out_of_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10010,VC-10010-A,V-A,Oxford Casual Shirt,Cedarcross,Mens > Shirts > Casual,39.13,White,S,low_stock,2026-09-22,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10010,VC-10010-B,V-B,Oxford Casual Shirt,Cedarcross,Mens > Shirts > Casual,41.13,White,XL,low_stock,2026-09-22,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10010,VC-10010-C,V-C,Oxford Casual Shirt,Cedarcross,Mens > Shirts > Casual,38.13,White,XXL,in_stock,2026-09-22,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10010,VC-10010-D,V-D,Oxford Casual Shirt,Cedarcross,Mens > Shirts > Casual,41.13,Sky Blue,S,in_stock,2026-09-22,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10010,VC-10010-E,V-E,Oxford Casual Shirt,Cedarcross,Mens > Shirts > Casual,41.13,Sky Blue,M,low_stock,2026-09-22,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10010,VC-10010-F,V-F,Oxford Casual Shirt,Cedarcross,Mens > Shirts > Casual,38.13,Sky Blue,XL,in_stock,2026-09-22,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10010,VC-10010-G,V-G,Oxford Casual Shirt,Cedarcross,Mens > Shirts > Casual,41.13,Charcoal,S,in_stock,2026-09-22,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10010,VC-10010-H,V-H,Oxford Casual Shirt,Cedarcross,Mens > Shirts > Casual,38.13,Charcoal,M,out_of_stock,2026-09-22,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10010,VC-10010-I,V-I,Oxford Casual Shirt,Cedarcross,Mens > Shirts > Casual,41.13,Charcoal,L,out_of_stock,2026-09-22,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10010,VC-10010-J,V-J,Oxford Casual Shirt,Cedarcross,Mens > Shirts > Casual,39.13,Charcoal,XL,out_of_stock,2026-09-22,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10010,VC-10010-K,V-K,Oxford Casual Shirt,Cedarcross,Mens > Shirts > Casual,41.13,Charcoal,XXL,in_stock,2026-09-22,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10010,VC-10010-L,V-L,Oxford Casual Shirt,Cedarcross,Mens > Shirts > Casual,41.13,Olive,S,in_stock,2026-09-22,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10010,VC-10010-M,V-M,Oxford Casual Shirt,Cedarcross,Mens > Shirts > Casual,38.13,Olive,M,out_of_stock,2026-09-22,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10010,VC-10010-N,V-N,Oxford Casual Shirt,Cedarcross,Mens > Shirts > Casual,38.13,Olive,L,in_stock,2026-09-22,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10010,VC-10010-O,V-O,Oxford Casual Shirt,Cedarcross,Mens > Shirts > Casual,41.13,Olive,XL,in_stock,2026-09-22,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10011,VC-10011-A,V-A,Quilted Bomber,Cedarcross,Mens > Outerwear > Jackets,113.73,Black,S,low_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10011,VC-10011-B,V-B,Quilted Bomber,Cedarcross,Mens > Outerwear > Jackets,116.73,Black,M,low_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10011,VC-10011-C,V-C,Quilted Bomber,Cedarcross,Mens > Outerwear > Jackets,114.73,Black,L,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10011,VC-10011-D,V-D,Quilted Bomber,Cedarcross,Mens > Outerwear > Jackets,118.73,Black,XL,low_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10011,VC-10011-E,V-E,Quilted Bomber,Cedarcross,Mens > Outerwear > Jackets,116.73,Navy,M,out_of_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10011,VC-10011-F,V-F,Quilted Bomber,Cedarcross,Mens > Outerwear > Jackets,114.73,Navy,L,low_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10011,VC-10011-G,V-G,Quilted Bomber,Cedarcross,Mens > Outerwear > Jackets,114.73,Stone,S,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10011,VC-10011-H,V-H,Quilted Bomber,Cedarcross,Mens > Outerwear > Jackets,113.73,Stone,M,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10011,VC-10011-I,V-I,Quilted Bomber,Cedarcross,Mens > Outerwear > Jackets,118.73,Stone,XL,out_of_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10012,VC-10012-A,V-A,Crossbody Satchel,Northfield,Accessories > Bags,122.51,Olive,OS,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10012,VC-10012-B,V-B,Crossbody Satchel,Northfield,Accessories > Bags,122.51,Black,OS,out_of_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10012,VC-10012-C,V-C,Crossbody Satchel,Northfield,Accessories > Bags,122.51,Tan,OS,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10012,VC-10012-D,V-D,Crossbody Satchel,Northfield,Accessories > Bags,122.51,Rust,OS,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10013,VC-10013-A,V-A,Cashmere Blend Scarf,Northfield,Accessories > Scarves,32.3,Charcoal,OS,out_of_stock,2026-09-19,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10013,VC-10013-B,V-B,Cashmere Blend Scarf,Northfield,Accessories > Scarves,31.3,Camel,OS,in_stock,2026-09-19,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10013,VC-10013-C,V-C,Cashmere Blend Scarf,Northfield,Accessories > Scarves,39.3,Burgundy,OS,in_stock,2026-09-19,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10014,VC-10014-A,V-A,Lace-Up Work Boot,Blackwood Supply,Footwear > Boots,127.35,Black,6,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10014,VC-10014-B,V-B,Lace-Up Work Boot,Blackwood Supply,Footwear > Boots,127.35,Black,7,low_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10014,VC-10014-C,V-C,Lace-Up Work Boot,Blackwood Supply,Footwear > Boots,127.35,Black,8,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10014,VC-10014-D,V-D,Lace-Up Work Boot,Blackwood Supply,Footwear > Boots,127.35,Black,9,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10014,VC-10014-E,V-E,Lace-Up Work Boot,Blackwood Supply,Footwear > Boots,127.35,Black,10,low_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10014,VC-10014-F,V-F,Lace-Up Work Boot,Blackwood Supply,Footwear > Boots,127.35,Black,11,low_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10014,VC-10014-G,V-G,Lace-Up Work Boot,Blackwood Supply,Footwear > Boots,127.35,Tan,6,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10014,VC-10014-H,V-H,Lace-Up Work Boot,Blackwood Supply,Footwear > Boots,127.35,Tan,7,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10014,VC-10014-I,V-I,Lace-Up Work Boot,Blackwood Supply,Footwear > Boots,132.35,Tan,8,low_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10014,VC-10014-J,V-J,Lace-Up Work Boot,Blackwood Supply,Footwear > Boots,132.35,Tan,9,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10014,VC-10014-K,V-K,Lace-Up Work Boot,Blackwood Supply,Footwear > Boots,127.35,Tan,10,low_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10014,VC-10014-L,V-L,Lace-Up Work Boot,Blackwood Supply,Footwear > Boots,125.35,Tan,11,out_of_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10014,VC-10014-M,V-M,Lace-Up Work Boot,Blackwood Supply,Footwear > Boots,132.35,Brown,6,low_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10014,VC-10014-N,V-N,Lace-Up Work Boot,Blackwood Supply,Footwear > Boots,132.35,Brown,7,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10014,VC-10014-O,V-O,Lace-Up Work Boot,Blackwood Supply,Footwear > Boots,127.35,Brown,8,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10014,VC-10014-P,V-P,Lace-Up Work Boot,Blackwood Supply,Footwear > Boots,127.35,Brown,9,low_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10014,VC-10014-Q,V-Q,Lace-Up Work Boot,Blackwood Supply,Footwear > Boots,127.35,Brown,11,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10015,VC-10015-A,V-A,Court Sneaker,Blackwood Supply,Footwear > Sneakers,98.14,White,6,out_of_stock,2026-09-20,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10015,VC-10015-B,V-B,Court Sneaker,Blackwood Supply,Footwear > Sneakers,99.14,White,7,in_stock,2026-09-20,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10015,VC-10015-C,V-C,Court Sneaker,Blackwood Supply,Footwear > Sneakers,98.14,White,8,in_stock,2026-09-20,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10015,VC-10015-D,V-D,Court Sneaker,Blackwood Supply,Footwear > Sneakers,103.14,White,9,in_stock,2026-09-20,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10015,VC-10015-E,V-E,Court Sneaker,Blackwood Supply,Footwear > Sneakers,101.14,White,10,low_stock,2026-09-20,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10015,VC-10015-F,V-F,Court Sneaker,Blackwood Supply,Footwear > Sneakers,101.14,White,11,in_stock,2026-09-20,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10015,VC-10015-G,V-G,Court Sneaker,Blackwood Supply,Footwear > Sneakers,99.14,Black,6,low_stock,2026-09-20,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10015,VC-10015-H,V-H,Court Sneaker,Blackwood Supply,Footwear > Sneakers,103.14,Black,8,in_stock,2026-09-20,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10015,VC-10015-I,V-I,Court Sneaker,Blackwood Supply,Footwear > Sneakers,101.14,Black,9,low_stock,2026-09-20,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10015,VC-10015-J,V-J,Court Sneaker,Blackwood Supply,Footwear > Sneakers,106.14,Black,10,out_of_stock,2026-09-20,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10015,VC-10015-K,V-K,Court Sneaker,Blackwood Supply,Footwear > Sneakers,98.14,Black,11,in_stock,2026-09-20,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10015,VC-10015-L,V-L,Court Sneaker,Blackwood Supply,Footwear > Sneakers,106.14,Grey,6,out_of_stock,2026-09-20,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10015,VC-10015-M,V-M,Court Sneaker,Blackwood Supply,Footwear > Sneakers,103.14,Grey,7,low_stock,2026-09-20,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10015,VC-10015-N,V-N,Court Sneaker,Blackwood Supply,Footwear > Sneakers,101.14,Grey,8,out_of_stock,2026-09-20,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10015,VC-10015-O,V-O,Court Sneaker,Blackwood Supply,Footwear > Sneakers,101.14,Grey,9,out_of_stock,2026-09-20,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10015,VC-10015-P,V-P,Court Sneaker,Blackwood Supply,Footwear > Sneakers,101.14,Grey,10,low_stock,2026-09-20,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10015,VC-10015-Q,V-Q,Court Sneaker,Blackwood Supply,Footwear > Sneakers,106.14,Grey,11,in_stock,2026-09-20,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10016,VC-10016-A,V-A,Ribbed Knit Jumper,Cedarcross,Womens > Knitwear > Jumpers,94.1,Charcoal,XS,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10016,VC-10016-B,V-B,Ribbed Knit Jumper,Cedarcross,Womens > Knitwear > Jumpers,94.1,Charcoal,S,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10016,VC-10016-C,V-C,Ribbed Knit Jumper,Cedarcross,Womens > Knitwear > Jumpers,94.1,Charcoal,M,low_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10016,VC-10016-D,V-D,Ribbed Knit Jumper,Cedarcross,Womens > Knitwear > Jumpers,96.1,Charcoal,L,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10016,VC-10016-E,V-E,Ribbed Knit Jumper,Cedarcross,Womens > Knitwear > Jumpers,91.1,Charcoal,XL,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10016,VC-10016-F,V-F,Ribbed Knit Jumper,Cedarcross,Womens > Knitwear > Jumpers,94.1,Cream,XS,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10016,VC-10016-G,V-G,Ribbed Knit Jumper,Cedarcross,Womens > Knitwear > Jumpers,99.1,Cream,S,low_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10016,VC-10016-H,V-H,Ribbed Knit Jumper,Cedarcross,Womens > Knitwear > Jumpers,91.1,Cream,L,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10016,VC-10016-I,V-I,Ribbed Knit Jumper,Cedarcross,Womens > Knitwear > Jumpers,96.1,Cream,XL,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10016,VC-10016-J,V-J,Ribbed Knit Jumper,Cedarcross,Womens > Knitwear > Jumpers,94.1,Forest Green,S,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10016,VC-10016-K,V-K,Ribbed Knit Jumper,Cedarcross,Womens > Knitwear > Jumpers,94.1,Forest Green,M,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10016,VC-10016-L,V-L,Ribbed Knit Jumper,Cedarcross,Womens > Knitwear > Jumpers,99.1,Forest Green,L,out_of_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10016,VC-10016-M,V-M,Ribbed Knit Jumper,Cedarcross,Womens > Knitwear > Jumpers,94.1,Forest Green,XL,low_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10016,VC-10016-N,V-N,Ribbed Knit Jumper,Cedarcross,Womens > Knitwear > Jumpers,91.1,Rust,XS,out_of_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10016,VC-10016-O,V-O,Ribbed Knit Jumper,Cedarcross,Womens > Knitwear > Jumpers,94.1,Rust,M,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10016,VC-10016-P,V-P,Ribbed Knit Jumper,Cedarcross,Womens > Knitwear > Jumpers,94.1,Rust,L,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10016,VC-10016-Q,V-Q,Ribbed Knit Jumper,Cedarcross,Womens > Knitwear > Jumpers,96.1,Rust,XL,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10016,VC-10016-R,V-R,Ribbed Knit Jumper,Cedarcross,Womens > Knitwear > Jumpers,96.1,Navy,XS,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10016,VC-10016-S,V-S,Ribbed Knit Jumper,Cedarcross,Womens > Knitwear > Jumpers,91.1,Navy,S,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10016,VC-10016-T,V-T,Ribbed Knit Jumper,Cedarcross,Womens > Knitwear > Jumpers,94.1,Navy,M,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10016,VC-10016-U,V-U,Ribbed Knit Jumper,Cedarcross,Womens > Knitwear > Jumpers,92.1,Navy,L,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10016,VC-10016-V,V-V,Ribbed Knit Jumper,Cedarcross,Womens > Knitwear > Jumpers,94.1,Navy,XL,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10017,VC-10017-A,V-A,Belted Shirt Dress,Northfield,Womens > Dresses > Midi,82.75,Black,6,low_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10017,VC-10017-B,V-B,Belted Shirt Dress,Northfield,Womens > Dresses > Midi,75.75,Black,8,low_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10017,VC-10017-C,V-C,Belted Shirt Dress,Northfield,Womens > Dresses > Midi,75.75,Black,10,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10017,VC-10017-D,V-D,Belted Shirt Dress,Northfield,Womens > Dresses > Midi,77.75,Black,12,low_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10017,VC-10017-E,V-E,Belted Shirt Dress,Northfield,Womens > Dresses > Midi,74.75,Black,14,low_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10017,VC-10017-F,V-F,Belted Shirt Dress,Northfield,Womens > Dresses > Midi,79.75,Terracotta,6,out_of_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10017,VC-10017-G,V-G,Belted Shirt Dress,Northfield,Womens > Dresses > Midi,77.75,Terracotta,10,out_of_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10017,VC-10017-H,V-H,Belted Shirt Dress,Northfield,Womens > Dresses > Midi,77.75,Terracotta,12,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10017,VC-10017-I,V-I,Belted Shirt Dress,Northfield,Womens > Dresses > Midi,77.75,Terracotta,14,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10017,VC-10017-J,V-J,Belted Shirt Dress,Northfield,Womens > Dresses > Midi,82.75,Olive,6,low_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10017,VC-10017-K,V-K,Belted Shirt Dress,Northfield,Womens > Dresses > Midi,77.75,Olive,10,out_of_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10017,VC-10017-L,V-L,Belted Shirt Dress,Northfield,Womens > Dresses > Midi,79.75,Olive,12,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10017,VC-10017-M,V-M,Belted Shirt Dress,Northfield,Womens > Dresses > Midi,77.75,Navy,6,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10017,VC-10017-N,V-N,Belted Shirt Dress,Northfield,Womens > Dresses > Midi,82.75,Navy,10,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10017,VC-10017-O,V-O,Belted Shirt Dress,Northfield,Womens > Dresses > Midi,79.75,Navy,12,low_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10017,VC-10017-P,V-P,Belted Shirt Dress,Northfield,Womens > Dresses > Midi,77.75,Navy,14,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10017,VC-10017-Q,V-Q,Belted Shirt Dress,Northfield,Womens > Dresses > Midi,77.75,Blush,6,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10017,VC-10017-R,V-R,Belted Shirt Dress,Northfield,Womens > Dresses > Midi,77.75,Blush,8,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10017,VC-10017-S,V-S,Belted Shirt Dress,Northfield,Womens > Dresses > Midi,79.75,Blush,10,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10017,VC-10017-T,V-T,Belted Shirt Dress,Northfield,Womens > Dresses > Midi,79.75,Blush,12,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10017,VC-10017-U,V-U,Belted Shirt Dress,Northfield,Womens > Dresses > Midi,77.75,Blush,14,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10018,VC-10018-A,V-A,Brushed Cotton Shirt,Blackwood Supply,Mens > Shirts > Casual,58.6,White,S,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10018,VC-10018-B,V-B,Brushed Cotton Shirt,Blackwood Supply,Mens > Shirts > Casual,61.6,White,M,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10018,VC-10018-C,V-C,Brushed Cotton Shirt,Blackwood Supply,Mens > Shirts > Casual,66.6,White,L,out_of_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10018,VC-10018-D,V-D,Brushed Cotton Shirt,Blackwood Supply,Mens > Shirts > Casual,61.6,White,XL,out_of_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10018,VC-10018-E,V-E,Brushed Cotton Shirt,Blackwood Supply,Mens > Shirts > Casual,61.6,White,XXL,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10018,VC-10018-F,V-F,Brushed Cotton Shirt,Blackwood Supply,Mens > Shirts > Casual,66.6,Sky Blue,S,low_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10018,VC-10018-G,V-G,Brushed Cotton Shirt,Blackwood Supply,Mens > Shirts > Casual,61.6,Sky Blue,M,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10018,VC-10018-H,V-H,Brushed Cotton Shirt,Blackwood Supply,Mens > Shirts > Casual,61.6,Sky Blue,L,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10018,VC-10018-I,V-I,Brushed Cotton Shirt,Blackwood Supply,Mens > Shirts > Casual,66.6,Sky Blue,XXL,low_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10018,VC-10018-J,V-J,Brushed Cotton Shirt,Blackwood Supply,Mens > Shirts > Casual,66.6,Charcoal,S,out_of_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10018,VC-10018-K,V-K,Brushed Cotton Shirt,Blackwood Supply,Mens > Shirts > Casual,66.6,Charcoal,M,low_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10018,VC-10018-L,V-L,Brushed Cotton Shirt,Blackwood Supply,Mens > Shirts > Casual,61.6,Charcoal,XL,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10018,VC-10018-M,V-M,Brushed Cotton Shirt,Blackwood Supply,Mens > Shirts > Casual,63.6,Charcoal,XXL,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10018,VC-10018-N,V-N,Brushed Cotton Shirt,Blackwood Supply,Mens > Shirts > Casual,66.6,Olive,S,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10018,VC-10018-O,V-O,Brushed Cotton Shirt,Blackwood Supply,Mens > Shirts > Casual,58.6,Olive,L,out_of_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10018,VC-10018-P,V-P,Brushed Cotton Shirt,Blackwood Supply,Mens > Shirts > Casual,61.6,Olive,XL,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10018,VC-10018-Q,V-Q,Brushed Cotton Shirt,Blackwood Supply,Mens > Shirts > Casual,59.6,Olive,XXL,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10019,VC-10019-A,V-A,Waxed Field Jacket,Cedarcross,Mens > Outerwear > Jackets,176.43,Black,S,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10019,VC-10019-B,V-B,Waxed Field Jacket,Cedarcross,Mens > Outerwear > Jackets,171.43,Black,M,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10019,VC-10019-C,V-C,Waxed Field Jacket,Cedarcross,Mens > Outerwear > Jackets,171.43,Navy,S,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10019,VC-10019-D,V-D,Waxed Field Jacket,Cedarcross,Mens > Outerwear > Jackets,174.43,Navy,M,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10019,VC-10019-E,V-E,Waxed Field Jacket,Cedarcross,Mens > Outerwear > Jackets,174.43,Navy,L,out_of_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10019,VC-10019-F,V-F,Waxed Field Jacket,Cedarcross,Mens > Outerwear > Jackets,176.43,Navy,XL,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10019,VC-10019-G,V-G,Waxed Field Jacket,Cedarcross,Mens > Outerwear > Jackets,176.43,Stone,S,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10019,VC-10019-H,V-H,Waxed Field Jacket,Cedarcross,Mens > Outerwear > Jackets,174.43,Stone,M,low_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10019,VC-10019-I,V-I,Waxed Field Jacket,Cedarcross,Mens > Outerwear > Jackets,174.43,Stone,L,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10019,VC-10019-J,V-J,Waxed Field Jacket,Cedarcross,Mens > Outerwear > Jackets,172.43,Stone,XL,low_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10020,VC-10020-A,V-A,Crossbody Satchel,Blackwood Supply,Accessories > Bags,77.25,Olive,OS,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10020,VC-10020-B,V-B,Crossbody Satchel,Blackwood Supply,Accessories > Bags,77.25,Black,OS,out_of_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10020,VC-10020-C,V-C,Crossbody Satchel,Blackwood Supply,Accessories > Bags,79.25,Tan,OS,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10021,VC-10021-A,V-A,Wool Scarf,Trestle Co,Accessories > Scarves,30.45,Charcoal,OS,low_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10021,VC-10021-B,V-B,Wool Scarf,Trestle Co,Accessories > Scarves,27.45,Burgundy,OS,out_of_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10022,VC-10022-A,V-A,Chelsea Boot,Harlow & Vane,Footwear > Boots,172.4,Black,6,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10022,VC-10022-B,V-B,Chelsea Boot,Harlow & Vane,Footwear > Boots,177.4,Black,7,out_of_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10022,VC-10022-C,V-C,Chelsea Boot,Harlow & Vane,Footwear > Boots,177.4,Black,8,out_of_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10022,VC-10022-D,V-D,Chelsea Boot,Harlow & Vane,Footwear > Boots,170.4,Black,9,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10022,VC-10022-E,V-E,Chelsea Boot,Harlow & Vane,Footwear > Boots,170.4,Black,10,out_of_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10022,VC-10022-F,V-F,Chelsea Boot,Harlow & Vane,Footwear > Boots,170.4,Tan,6,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10022,VC-10022-G,V-G,Chelsea Boot,Harlow & Vane,Footwear > Boots,177.4,Tan,7,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10022,VC-10022-H,V-H,Chelsea Boot,Harlow & Vane,Footwear > Boots,170.4,Tan,9,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10022,VC-10022-I,V-I,Chelsea Boot,Harlow & Vane,Footwear > Boots,177.4,Tan,10,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10022,VC-10022-J,V-J,Chelsea Boot,Harlow & Vane,Footwear > Boots,169.4,Tan,11,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10022,VC-10022-K,V-K,Chelsea Boot,Harlow & Vane,Footwear > Boots,170.4,Brown,6,low_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10022,VC-10022-L,V-L,Chelsea Boot,Harlow & Vane,Footwear > Boots,174.4,Brown,7,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10022,VC-10022-M,V-M,Chelsea Boot,Harlow & Vane,Footwear > Boots,177.4,Brown,8,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10022,VC-10022-N,V-N,Chelsea Boot,Harlow & Vane,Footwear > Boots,169.4,Brown,9,low_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10022,VC-10022-O,V-O,Chelsea Boot,Harlow & Vane,Footwear > Boots,172.4,Brown,10,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10022,VC-10022-P,V-P,Chelsea Boot,Harlow & Vane,Footwear > Boots,177.4,Brown,11,out_of_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10023,VC-10023-A,V-A,Court Sneaker,Cedarcross,Footwear > Sneakers,71.61,White,6,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10023,VC-10023-B,V-B,Court Sneaker,Cedarcross,Footwear > Sneakers,79.61,White,7,low_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10023,VC-10023-C,V-C,Court Sneaker,Cedarcross,Footwear > Sneakers,71.61,White,8,low_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10023,VC-10023-D,V-D,Court Sneaker,Cedarcross,Footwear > Sneakers,74.61,White,9,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10023,VC-10023-E,V-E,Court Sneaker,Cedarcross,Footwear > Sneakers,74.61,White,10,out_of_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10023,VC-10023-F,V-F,Court Sneaker,Cedarcross,Footwear > Sneakers,74.61,Black,7,out_of_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10023,VC-10023-G,V-G,Court Sneaker,Cedarcross,Footwear > Sneakers,74.61,Black,8,out_of_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10023,VC-10023-H,V-H,Court Sneaker,Cedarcross,Footwear > Sneakers,74.61,Black,9,out_of_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10023,VC-10023-I,V-I,Court Sneaker,Cedarcross,Footwear > Sneakers,71.61,Black,10,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10023,VC-10023-J,V-J,Court Sneaker,Cedarcross,Footwear > Sneakers,76.61,Black,11,out_of_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10023,VC-10023-K,V-K,Court Sneaker,Cedarcross,Footwear > Sneakers,72.61,Grey,6,low_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10023,VC-10023-L,V-L,Court Sneaker,Cedarcross,Footwear > Sneakers,72.61,Grey,7,low_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10023,VC-10023-M,V-M,Court Sneaker,Cedarcross,Footwear > Sneakers,74.61,Grey,8,low_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10023,VC-10023-N,V-N,Court Sneaker,Cedarcross,Footwear > Sneakers,71.61,Grey,9,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10023,VC-10023-O,V-O,Court Sneaker,Cedarcross,Footwear > Sneakers,76.61,Grey,10,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10023,VC-10023-P,V-P,Court Sneaker,Cedarcross,Footwear > Sneakers,72.61,Grey,11,low_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10024,VC-10024-A,V-A,Ribbed Knit Jumper,Northfield,Womens > Knitwear > Jumpers,48.16,Charcoal,XS,low_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10024,VC-10024-B,V-B,Ribbed Knit Jumper,Northfield,Womens > Knitwear > Jumpers,56.16,Charcoal,M,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10024,VC-10024-C,V-C,Ribbed Knit Jumper,Northfield,Womens > Knitwear > Jumpers,51.16,Charcoal,L,out_of_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10024,VC-10024-D,V-D,Ribbed Knit Jumper,Northfield,Womens > Knitwear > Jumpers,53.16,Charcoal,XL,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10024,VC-10024-E,V-E,Ribbed Knit Jumper,Northfield,Womens > Knitwear > Jumpers,56.16,Cream,XS,low_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10024,VC-10024-F,V-F,Ribbed Knit Jumper,Northfield,Womens > Knitwear > Jumpers,53.16,Cream,S,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10024,VC-10024-G,V-G,Ribbed Knit Jumper,Northfield,Womens > Knitwear > Jumpers,51.16,Cream,M,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10024,VC-10024-H,V-H,Ribbed Knit Jumper,Northfield,Womens > Knitwear > Jumpers,51.16,Cream,L,out_of_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10024,VC-10024-I,V-I,Ribbed Knit Jumper,Northfield,Womens > Knitwear > Jumpers,53.16,Cream,XL,low_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10024,VC-10024-J,V-J,Ribbed Knit Jumper,Northfield,Womens > Knitwear > Jumpers,48.16,Forest Green,XS,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10024,VC-10024-K,V-K,Ribbed Knit Jumper,Northfield,Womens > Knitwear > Jumpers,51.16,Forest Green,S,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10024,VC-10024-L,V-L,Ribbed Knit Jumper,Northfield,Womens > Knitwear > Jumpers,51.16,Forest Green,M,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10024,VC-10024-M,V-M,Ribbed Knit Jumper,Northfield,Womens > Knitwear > Jumpers,56.16,Forest Green,L,out_of_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10024,VC-10024-N,V-N,Ribbed Knit Jumper,Northfield,Womens > Knitwear > Jumpers,56.16,Forest Green,XL,out_of_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10024,VC-10024-O,V-O,Ribbed Knit Jumper,Northfield,Womens > Knitwear > Jumpers,53.16,Rust,XS,out_of_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10024,VC-10024-P,V-P,Ribbed Knit Jumper,Northfield,Womens > Knitwear > Jumpers,56.16,Rust,M,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10024,VC-10024-Q,V-Q,Ribbed Knit Jumper,Northfield,Womens > Knitwear > Jumpers,56.16,Rust,XL,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10024,VC-10024-R,V-R,Ribbed Knit Jumper,Northfield,Womens > Knitwear > Jumpers,51.16,Navy,XS,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10024,VC-10024-S,V-S,Ribbed Knit Jumper,Northfield,Womens > Knitwear > Jumpers,48.16,Navy,L,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10024,VC-10024-T,V-T,Ribbed Knit Jumper,Northfield,Womens > Knitwear > Jumpers,48.16,Navy,XL,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10025,VC-10025-A,V-A,Belted Shirt Dress,Cedarcross,Womens > Dresses > Midi,120.96,Black,6,low_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10025,VC-10025-B,V-B,Belted Shirt Dress,Cedarcross,Womens > Dresses > Midi,120.96,Black,8,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10025,VC-10025-C,V-C,Belted Shirt Dress,Cedarcross,Womens > Dresses > Midi,125.96,Black,10,out_of_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10025,VC-10025-D,V-D,Belted Shirt Dress,Cedarcross,Womens > Dresses > Midi,117.96,Black,12,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10025,VC-10025-E,V-E,Belted Shirt Dress,Cedarcross,Womens > Dresses > Midi,122.96,Terracotta,6,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10025,VC-10025-F,V-F,Belted Shirt Dress,Cedarcross,Womens > Dresses > Midi,122.96,Terracotta,8,low_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10025,VC-10025-G,V-G,Belted Shirt Dress,Cedarcross,Womens > Dresses > Midi,120.96,Terracotta,10,low_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10025,VC-10025-H,V-H,Belted Shirt Dress,Cedarcross,Womens > Dresses > Midi,125.96,Terracotta,12,out_of_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10025,VC-10025-I,V-I,Belted Shirt Dress,Cedarcross,Womens > Dresses > Midi,120.96,Olive,6,out_of_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10025,VC-10025-J,V-J,Belted Shirt Dress,Cedarcross,Womens > Dresses > Midi,122.96,Olive,8,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10025,VC-10025-K,V-K,Belted Shirt Dress,Cedarcross,Womens > Dresses > Midi,120.96,Olive,12,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10025,VC-10025-L,V-L,Belted Shirt Dress,Cedarcross,Womens > Dresses > Midi,118.96,Navy,6,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10025,VC-10025-M,V-M,Belted Shirt Dress,Cedarcross,Womens > Dresses > Midi,120.96,Navy,8,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10025,VC-10025-N,V-N,Belted Shirt Dress,Cedarcross,Womens > Dresses > Midi,120.96,Navy,12,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10025,VC-10025-O,V-O,Belted Shirt Dress,Cedarcross,Womens > Dresses > Midi,118.96,Blush,6,out_of_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10025,VC-10025-P,V-P,Belted Shirt Dress,Cedarcross,Womens > Dresses > Midi,122.96,Blush,8,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10025,VC-10025-Q,V-Q,Belted Shirt Dress,Cedarcross,Womens > Dresses > Midi,117.96,Blush,12,low_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10026,VC-10026-A,V-A,Linen Blend Shirt,Harlow & Vane,Mens > Shirts > Casual,74.93,White,S,low_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10026,VC-10026-B,V-B,Linen Blend Shirt,Harlow & Vane,Mens > Shirts > Casual,76.93,White,M,low_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10026,VC-10026-C,V-C,Linen Blend Shirt,Harlow & Vane,Mens > Shirts > Casual,74.93,White,L,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10026,VC-10026-D,V-D,Linen Blend Shirt,Harlow & Vane,Mens > Shirts > Casual,72.93,White,XL,out_of_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10026,VC-10026-E,V-E,Linen Blend Shirt,Harlow & Vane,Mens > Shirts > Casual,76.93,White,XXL,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10026,VC-10026-F,V-F,Linen Blend Shirt,Harlow & Vane,Mens > Shirts > Casual,72.93,Sky Blue,M,low_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10026,VC-10026-G,V-G,Linen Blend Shirt,Harlow & Vane,Mens > Shirts > Casual,74.93,Sky Blue,L,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10026,VC-10026-H,V-H,Linen Blend Shirt,Harlow & Vane,Mens > Shirts > Casual,74.93,Sky Blue,XL,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10026,VC-10026-I,V-I,Linen Blend Shirt,Harlow & Vane,Mens > Shirts > Casual,79.93,Sky Blue,XXL,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10026,VC-10026-J,V-J,Linen Blend Shirt,Harlow & Vane,Mens > Shirts > Casual,74.93,Charcoal,M,out_of_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10026,VC-10026-K,V-K,Linen Blend Shirt,Harlow & Vane,Mens > Shirts > Casual,74.93,Charcoal,XL,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10026,VC-10026-L,V-L,Linen Blend Shirt,Harlow & Vane,Mens > Shirts > Casual,72.93,Charcoal,XXL,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10026,VC-10026-M,V-M,Linen Blend Shirt,Harlow & Vane,Mens > Shirts > Casual,79.93,Olive,M,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10026,VC-10026-N,V-N,Linen Blend Shirt,Harlow & Vane,Mens > Shirts > Casual,74.93,Olive,XL,low_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10026,VC-10026-O,V-O,Linen Blend Shirt,Harlow & Vane,Mens > Shirts > Casual,79.93,Olive,XXL,out_of_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10027,VC-10027-A,V-A,Waxed Field Jacket,Cedarcross,Mens > Outerwear > Jackets,151.11,Black,S,out_of_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10027,VC-10027-B,V-B,Waxed Field Jacket,Cedarcross,Mens > Outerwear > Jackets,153.11,Black,M,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10027,VC-10027-C,V-C,Waxed Field Jacket,Cedarcross,Mens > Outerwear > Jackets,151.11,Navy,S,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10027,VC-10027-D,V-D,Waxed Field Jacket,Cedarcross,Mens > Outerwear > Jackets,151.11,Navy,M,out_of_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10027,VC-10027-E,V-E,Waxed Field Jacket,Cedarcross,Mens > Outerwear > Jackets,148.11,Navy,XL,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10027,VC-10027-F,V-F,Waxed Field Jacket,Cedarcross,Mens > Outerwear > Jackets,151.11,Stone,S,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10027,VC-10027-G,V-G,Waxed Field Jacket,Cedarcross,Mens > Outerwear > Jackets,156.11,Stone,M,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10027,VC-10027-H,V-H,Waxed Field Jacket,Cedarcross,Mens > Outerwear > Jackets,151.11,Stone,L,low_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10027,VC-10027-I,V-I,Waxed Field Jacket,Cedarcross,Mens > Outerwear > Jackets,151.11,Stone,XL,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10028,VC-10028-A,V-A,Crossbody Satchel,Modern Oat,Accessories > Bags,79.72,Olive,OS,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10028,VC-10028-B,V-B,Crossbody Satchel,Modern Oat,Accessories > Bags,77.72,Black,OS,out_of_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10029,VC-10029-A,V-A,Wool Scarf,Cedarcross,Accessories > Scarves,20.79,Charcoal,OS,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10029,VC-10029-B,V-B,Wool Scarf,Cedarcross,Accessories > Scarves,18.79,Camel,OS,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10029,VC-10029-C,V-C,Wool Scarf,Cedarcross,Accessories > Scarves,20.79,Burgundy,OS,low_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10030,VC-10030-A,V-A,Lace-Up Work Boot,Trestle Co,Footwear > Boots,132.17,Black,6,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10030,VC-10030-B,V-B,Lace-Up Work Boot,Trestle Co,Footwear > Boots,132.17,Black,7,low_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10030,VC-10030-C,V-C,Lace-Up Work Boot,Trestle Co,Footwear > Boots,134.17,Black,8,out_of_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10030,VC-10030-D,V-D,Lace-Up Work Boot,Trestle Co,Footwear > Boots,132.17,Black,10,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10030,VC-10030-E,V-E,Lace-Up Work Boot,Trestle Co,Footwear > Boots,132.17,Black,11,low_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10030,VC-10030-F,V-F,Lace-Up Work Boot,Trestle Co,Footwear > Boots,134.17,Tan,6,out_of_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10030,VC-10030-G,V-G,Lace-Up Work Boot,Trestle Co,Footwear > Boots,132.17,Tan,7,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10030,VC-10030-H,V-H,Lace-Up Work Boot,Trestle Co,Footwear > Boots,130.17,Tan,8,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10030,VC-10030-I,V-I,Lace-Up Work Boot,Trestle Co,Footwear > Boots,134.17,Tan,9,low_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10030,VC-10030-J,V-J,Lace-Up Work Boot,Trestle Co,Footwear > Boots,129.17,Tan,11,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10030,VC-10030-K,V-K,Lace-Up Work Boot,Trestle Co,Footwear > Boots,134.17,Brown,6,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10030,VC-10030-L,V-L,Lace-Up Work Boot,Trestle Co,Footwear > Boots,134.17,Brown,7,out_of_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10030,VC-10030-M,V-M,Lace-Up Work Boot,Trestle Co,Footwear > Boots,132.17,Brown,9,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10030,VC-10030-N,V-N,Lace-Up Work Boot,Trestle Co,Footwear > Boots,130.17,Brown,11,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10031,VC-10031-A,V-A,Retro Runner,Modern Oat,Footwear > Sneakers,114.6,White,6,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10031,VC-10031-B,V-B,Retro Runner,Modern Oat,Footwear > Sneakers,121.6,White,8,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10031,VC-10031-C,V-C,Retro Runner,Modern Oat,Footwear > Sneakers,116.6,White,9,out_of_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10031,VC-10031-D,V-D,Retro Runner,Modern Oat,Footwear > Sneakers,121.6,White,11,out_of_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10031,VC-10031-E,V-E,Retro Runner,Modern Oat,Footwear > Sneakers,114.6,Black,7,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10031,VC-10031-F,V-F,Retro Runner,Modern Oat,Footwear > Sneakers,121.6,Black,8,out_of_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10031,VC-10031-G,V-G,Retro Runner,Modern Oat,Footwear > Sneakers,114.6,Black,9,low_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10031,VC-10031-H,V-H,Retro Runner,Modern Oat,Footwear > Sneakers,118.6,Black,11,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10031,VC-10031-I,V-I,Retro Runner,Modern Oat,Footwear > Sneakers,116.6,Grey,6,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10031,VC-10031-J,V-J,Retro Runner,Modern Oat,Footwear > Sneakers,121.6,Grey,7,low_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10031,VC-10031-K,V-K,Retro Runner,Modern Oat,Footwear > Sneakers,114.6,Grey,8,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10031,VC-10031-L,V-L,Retro Runner,Modern Oat,Footwear > Sneakers,121.6,Grey,9,low_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10031,VC-10031-M,V-M,Retro Runner,Modern Oat,Footwear > Sneakers,114.6,Grey,10,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10031,VC-10031-N,V-N,Retro Runner,Modern Oat,Footwear > Sneakers,116.6,Grey,11,low_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10032,VC-10032-A,V-A,Cropped Wool Jumper,Harlow & Vane,Womens > Knitwear > Jumpers,69.7,Charcoal,XS,out_of_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10032,VC-10032-B,V-B,Cropped Wool Jumper,Harlow & Vane,Womens > Knitwear > Jumpers,67.7,Charcoal,S,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10032,VC-10032-C,V-C,Cropped Wool Jumper,Harlow & Vane,Womens > Knitwear > Jumpers,67.7,Charcoal,M,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10032,VC-10032-D,V-D,Cropped Wool Jumper,Harlow & Vane,Womens > Knitwear > Jumpers,69.7,Charcoal,XL,out_of_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10032,VC-10032-E,V-E,Cropped Wool Jumper,Harlow & Vane,Womens > Knitwear > Jumpers,71.7,Cream,XS,out_of_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10032,VC-10032-F,V-F,Cropped Wool Jumper,Harlow & Vane,Womens > Knitwear > Jumpers,69.7,Cream,S,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10032,VC-10032-G,V-G,Cropped Wool Jumper,Harlow & Vane,Womens > Knitwear > Jumpers,69.7,Cream,M,low_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10032,VC-10032-H,V-H,Cropped Wool Jumper,Harlow & Vane,Womens > Knitwear > Jumpers,67.7,Cream,L,low_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10032,VC-10032-I,V-I,Cropped Wool Jumper,Harlow & Vane,Womens > Knitwear > Jumpers,74.7,Forest Green,XS,low_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10032,VC-10032-J,V-J,Cropped Wool Jumper,Harlow & Vane,Womens > Knitwear > Jumpers,66.7,Forest Green,S,low_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10032,VC-10032-K,V-K,Cropped Wool Jumper,Harlow & Vane,Womens > Knitwear > Jumpers,67.7,Forest Green,L,low_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10032,VC-10032-L,V-L,Cropped Wool Jumper,Harlow & Vane,Womens > Knitwear > Jumpers,69.7,Forest Green,XL,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10032,VC-10032-M,V-M,Cropped Wool Jumper,Harlow & Vane,Womens > Knitwear > Jumpers,74.7,Rust,S,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10032,VC-10032-N,V-N,Cropped Wool Jumper,Harlow & Vane,Womens > Knitwear > Jumpers,67.7,Rust,M,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10032,VC-10032-O,V-O,Cropped Wool Jumper,Harlow & Vane,Womens > Knitwear > Jumpers,74.7,Rust,L,low_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10032,VC-10032-P,V-P,Cropped Wool Jumper,Harlow & Vane,Womens > Knitwear > Jumpers,67.7,Rust,XL,low_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10032,VC-10032-Q,V-Q,Cropped Wool Jumper,Harlow & Vane,Womens > Knitwear > Jumpers,66.7,Navy,XS,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10032,VC-10032-R,V-R,Cropped Wool Jumper,Harlow & Vane,Womens > Knitwear > Jumpers,67.7,Navy,M,out_of_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10032,VC-10032-S,V-S,Cropped Wool Jumper,Harlow & Vane,Womens > Knitwear > Jumpers,69.7,Navy,L,out_of_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10032,VC-10032-T,V-T,Cropped Wool Jumper,Harlow & Vane,Womens > Knitwear > Jumpers,74.7,Navy,XL,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10033,VC-10033-A,V-A,Wrap Midi Dress,Northfield,Womens > Dresses > Midi,80.82,Black,6,low_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10033,VC-10033-B,V-B,Wrap Midi Dress,Northfield,Womens > Dresses > Midi,82.82,Black,8,low_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10033,VC-10033-C,V-C,Wrap Midi Dress,Northfield,Womens > Dresses > Midi,82.82,Black,12,out_of_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10033,VC-10033-D,V-D,Wrap Midi Dress,Northfield,Womens > Dresses > Midi,84.82,Black,14,out_of_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10033,VC-10033-E,V-E,Wrap Midi Dress,Northfield,Womens > Dresses > Midi,84.82,Terracotta,6,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10033,VC-10033-F,V-F,Wrap Midi Dress,Northfield,Womens > Dresses > Midi,79.82,Terracotta,8,out_of_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10033,VC-10033-G,V-G,Wrap Midi Dress,Northfield,Womens > Dresses > Midi,82.82,Terracotta,10,low_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10033,VC-10033-H,V-H,Wrap Midi Dress,Northfield,Womens > Dresses > Midi,82.82,Terracotta,14,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10033,VC-10033-I,V-I,Wrap Midi Dress,Northfield,Womens > Dresses > Midi,82.82,Olive,8,out_of_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10033,VC-10033-J,V-J,Wrap Midi Dress,Northfield,Womens > Dresses > Midi,82.82,Olive,10,low_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10033,VC-10033-K,V-K,Wrap Midi Dress,Northfield,Womens > Dresses > Midi,82.82,Olive,14,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10033,VC-10033-L,V-L,Wrap Midi Dress,Northfield,Womens > Dresses > Midi,82.82,Navy,6,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10033,VC-10033-M,V-M,Wrap Midi Dress,Northfield,Womens > Dresses > Midi,84.82,Navy,8,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10033,VC-10033-N,V-N,Wrap Midi Dress,Northfield,Womens > Dresses > Midi,84.82,Navy,10,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10033,VC-10033-O,V-O,Wrap Midi Dress,Northfield,Womens > Dresses > Midi,82.82,Navy,14,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10033,VC-10033-P,V-P,Wrap Midi Dress,Northfield,Womens > Dresses > Midi,84.82,Blush,6,low_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10033,VC-10033-Q,V-Q,Wrap Midi Dress,Northfield,Womens > Dresses > Midi,82.82,Blush,8,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10033,VC-10033-R,V-R,Wrap Midi Dress,Northfield,Womens > Dresses > Midi,79.82,Blush,10,low_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10033,VC-10033-S,V-S,Wrap Midi Dress,Northfield,Womens > Dresses > Midi,87.82,Blush,14,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10034,VC-10034-A,V-A,Linen Blend Shirt,Harlow & Vane,Mens > Shirts > Casual,73.55,White,S,out_of_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10034,VC-10034-B,V-B,Linen Blend Shirt,Harlow & Vane,Mens > Shirts > Casual,78.55,White,M,out_of_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10034,VC-10034-C,V-C,Linen Blend Shirt,Harlow & Vane,Mens > Shirts > Casual,70.55,White,L,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10034,VC-10034-D,V-D,Linen Blend Shirt,Harlow & Vane,Mens > Shirts > Casual,78.55,White,XL,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10034,VC-10034-E,V-E,Linen Blend Shirt,Harlow & Vane,Mens > Shirts > Casual,73.55,White,XXL,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10034,VC-10034-F,V-F,Linen Blend Shirt,Harlow & Vane,Mens > Shirts > Casual,73.55,Sky Blue,M,low_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10034,VC-10034-G,V-G,Linen Blend Shirt,Harlow & Vane,Mens > Shirts > Casual,73.55,Sky Blue,L,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10034,VC-10034-H,V-H,Linen Blend Shirt,Harlow & Vane,Mens > Shirts > Casual,73.55,Sky Blue,XL,low_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10034,VC-10034-I,V-I,Linen Blend Shirt,Harlow & Vane,Mens > Shirts > Casual,78.55,Sky Blue,XXL,out_of_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10034,VC-10034-J,V-J,Linen Blend Shirt,Harlow & Vane,Mens > Shirts > Casual,70.55,Charcoal,S,low_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10034,VC-10034-K,V-K,Linen Blend Shirt,Harlow & Vane,Mens > Shirts > Casual,78.55,Charcoal,L,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10034,VC-10034-L,V-L,Linen Blend Shirt,Harlow & Vane,Mens > Shirts > Casual,73.55,Charcoal,XL,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10034,VC-10034-M,V-M,Linen Blend Shirt,Harlow & Vane,Mens > Shirts > Casual,73.55,Olive,S,low_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10034,VC-10034-N,V-N,Linen Blend Shirt,Harlow & Vane,Mens > Shirts > Casual,73.55,Olive,M,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10034,VC-10034-O,V-O,Linen Blend Shirt,Harlow & Vane,Mens > Shirts > Casual,73.55,Olive,L,low_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10034,VC-10034-P,V-P,Linen Blend Shirt,Harlow & Vane,Mens > Shirts > Casual,73.55,Olive,XXL,out_of_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10035,VC-10035-A,V-A,Quilted Bomber,Northfield,Mens > Outerwear > Jackets,224.77,Black,S,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10035,VC-10035-B,V-B,Quilted Bomber,Northfield,Mens > Outerwear > Jackets,219.77,Black,L,out_of_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10035,VC-10035-C,V-C,Quilted Bomber,Northfield,Mens > Outerwear > Jackets,221.77,Black,XL,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10035,VC-10035-D,V-D,Quilted Bomber,Northfield,Mens > Outerwear > Jackets,217.77,Navy,S,out_of_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10035,VC-10035-E,V-E,Quilted Bomber,Northfield,Mens > Outerwear > Jackets,219.77,Navy,M,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10035,VC-10035-F,V-F,Quilted Bomber,Northfield,Mens > Outerwear > Jackets,221.77,Navy,XL,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10035,VC-10035-G,V-G,Quilted Bomber,Northfield,Mens > Outerwear > Jackets,219.77,Stone,S,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10035,VC-10035-H,V-H,Quilted Bomber,Northfield,Mens > Outerwear > Jackets,221.77,Stone,M,low_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10035,VC-10035-I,V-I,Quilted Bomber,Northfield,Mens > Outerwear > Jackets,219.77,Stone,L,low_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10035,VC-10035-J,V-J,Quilted Bomber,Northfield,Mens > Outerwear > Jackets,219.77,Stone,XL,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10036,VC-10036-A,V-A,Crossbody Satchel,Modern Oat,Accessories > Bags,87.3,Olive,OS,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10036,VC-10036-B,V-B,Crossbody Satchel,Modern Oat,Accessories > Bags,82.3,Black,OS,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10036,VC-10036-C,V-C,Crossbody Satchel,Modern Oat,Accessories > Bags,85.3,Tan,OS,out_of_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10036,VC-10036-D,V-D,Crossbody Satchel,Modern Oat,Accessories > Bags,85.3,Rust,OS,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10037,VC-10037-A,V-A,Wool Scarf,Trestle Co,Accessories > Scarves,25.07,Charcoal,OS,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10037,VC-10037-B,V-B,Wool Scarf,Trestle Co,Accessories > Scarves,25.07,Camel,OS,low_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10037,VC-10037-C,V-C,Wool Scarf,Trestle Co,Accessories > Scarves,23.07,Burgundy,OS,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10038,VC-10038-A,V-A,Lace-Up Work Boot,Northfield,Footwear > Boots,125.68,Black,6,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10038,VC-10038-B,V-B,Lace-Up Work Boot,Northfield,Footwear > Boots,130.68,Black,7,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10038,VC-10038-C,V-C,Lace-Up Work Boot,Northfield,Footwear > Boots,127.68,Black,8,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10038,VC-10038-D,V-D,Lace-Up Work Boot,Northfield,Footwear > Boots,125.68,Black,9,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10038,VC-10038-E,V-E,Lace-Up Work Boot,Northfield,Footwear > Boots,127.68,Black,10,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10038,VC-10038-F,V-F,Lace-Up Work Boot,Northfield,Footwear > Boots,125.68,Black,11,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10038,VC-10038-G,V-G,Lace-Up Work Boot,Northfield,Footwear > Boots,123.68,Tan,7,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10038,VC-10038-H,V-H,Lace-Up Work Boot,Northfield,Footwear > Boots,122.68,Tan,8,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10038,VC-10038-I,V-I,Lace-Up Work Boot,Northfield,Footwear > Boots,125.68,Tan,9,low_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10038,VC-10038-J,V-J,Lace-Up Work Boot,Northfield,Footwear > Boots,125.68,Tan,10,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10038,VC-10038-K,V-K,Lace-Up Work Boot,Northfield,Footwear > Boots,122.68,Tan,11,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10038,VC-10038-L,V-L,Lace-Up Work Boot,Northfield,Footwear > Boots,127.68,Brown,6,low_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10038,VC-10038-M,V-M,Lace-Up Work Boot,Northfield,Footwear > Boots,130.68,Brown,7,low_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10038,VC-10038-N,V-N,Lace-Up Work Boot,Northfield,Footwear > Boots,122.68,Brown,8,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10038,VC-10038-O,V-O,Lace-Up Work Boot,Northfield,Footwear > Boots,127.68,Brown,9,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10038,VC-10038-P,V-P,Lace-Up Work Boot,Northfield,Footwear > Boots,127.68,Brown,10,out_of_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10038,VC-10038-Q,V-Q,Lace-Up Work Boot,Northfield,Footwear > Boots,130.68,Brown,11,out_of_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10039,VC-10039-A,V-A,Court Sneaker,Cedarcross,Footwear > Sneakers,94.59,White,6,low_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10039,VC-10039-B,V-B,Court Sneaker,Cedarcross,Footwear > Sneakers,101.59,White,7,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10039,VC-10039-C,V-C,Court Sneaker,Cedarcross,Footwear > Sneakers,96.59,White,8,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10039,VC-10039-D,V-D,Court Sneaker,Cedarcross,Footwear > Sneakers,94.59,White,9,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10039,VC-10039-E,V-E,Court Sneaker,Cedarcross,Footwear > Sneakers,94.59,White,10,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10039,VC-10039-F,V-F,Court Sneaker,Cedarcross,Footwear > Sneakers,96.59,White,11,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10039,VC-10039-G,V-G,Court Sneaker,Cedarcross,Footwear > Sneakers,96.59,Black,6,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10039,VC-10039-H,V-H,Court Sneaker,Cedarcross,Footwear > Sneakers,96.59,Black,7,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10039,VC-10039-I,V-I,Court Sneaker,Cedarcross,Footwear > Sneakers,96.59,Black,9,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10039,VC-10039-J,V-J,Court Sneaker,Cedarcross,Footwear > Sneakers,94.59,Black,10,out_of_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10039,VC-10039-K,V-K,Court Sneaker,Cedarcross,Footwear > Sneakers,94.59,Black,11,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10039,VC-10039-L,V-L,Court Sneaker,Cedarcross,Footwear > Sneakers,98.59,Grey,6,out_of_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10039,VC-10039-M,V-M,Court Sneaker,Cedarcross,Footwear > Sneakers,96.59,Grey,7,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10039,VC-10039-N,V-N,Court Sneaker,Cedarcross,Footwear > Sneakers,93.59,Grey,8,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10039,VC-10039-O,V-O,Court Sneaker,Cedarcross,Footwear > Sneakers,96.59,Grey,10,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10039,VC-10039-P,V-P,Court Sneaker,Cedarcross,Footwear > Sneakers,101.59,Grey,11,out_of_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10040,VC-10040-A,V-A,Cable Knit Sweater,Harlow & Vane,Womens > Knitwear > Jumpers,67.58,Charcoal,XS,out_of_stock,2026-09-19,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10040,VC-10040-B,V-B,Cable Knit Sweater,Harlow & Vane,Womens > Knitwear > Jumpers,67.58,Charcoal,S,low_stock,2026-09-19,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10040,VC-10040-C,V-C,Cable Knit Sweater,Harlow & Vane,Womens > Knitwear > Jumpers,72.58,Charcoal,M,low_stock,2026-09-19,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10040,VC-10040-D,V-D,Cable Knit Sweater,Harlow & Vane,Womens > Knitwear > Jumpers,64.58,Charcoal,L,in_stock,2026-09-19,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10040,VC-10040-E,V-E,Cable Knit Sweater,Harlow & Vane,Womens > Knitwear > Jumpers,67.58,Cream,XS,in_stock,2026-09-19,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10040,VC-10040-F,V-F,Cable Knit Sweater,Harlow & Vane,Womens > Knitwear > Jumpers,65.58,Cream,S,in_stock,2026-09-19,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10040,VC-10040-G,V-G,Cable Knit Sweater,Harlow & Vane,Womens > Knitwear > Jumpers,67.58,Cream,M,in_stock,2026-09-19,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10040,VC-10040-H,V-H,Cable Knit Sweater,Harlow & Vane,Womens > Knitwear > Jumpers,65.58,Cream,L,in_stock,2026-09-19,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10040,VC-10040-I,V-I,Cable Knit Sweater,Harlow & Vane,Womens > Knitwear > Jumpers,64.58,Cream,XL,in_stock,2026-09-19,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10040,VC-10040-J,V-J,Cable Knit Sweater,Harlow & Vane,Womens > Knitwear > Jumpers,64.58,Forest Green,XS,in_stock,2026-09-19,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10040,VC-10040-K,V-K,Cable Knit Sweater,Harlow & Vane,Womens > Knitwear > Jumpers,65.58,Forest Green,S,in_stock,2026-09-19,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10040,VC-10040-L,V-L,Cable Knit Sweater,Harlow & Vane,Womens > Knitwear > Jumpers,72.58,Forest Green,L,out_of_stock,2026-09-19,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10040,VC-10040-M,V-M,Cable Knit Sweater,Harlow & Vane,Womens > Knitwear > Jumpers,72.58,Forest Green,XL,in_stock,2026-09-19,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10040,VC-10040-N,V-N,Cable Knit Sweater,Harlow & Vane,Womens > Knitwear > Jumpers,67.58,Rust,XS,in_stock,2026-09-19,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10040,VC-10040-O,V-O,Cable Knit Sweater,Harlow & Vane,Womens > Knitwear > Jumpers,67.58,Rust,L,low_stock,2026-09-19,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10040,VC-10040-P,V-P,Cable Knit Sweater,Harlow & Vane,Womens > Knitwear > Jumpers,67.58,Rust,XL,in_stock,2026-09-19,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10040,VC-10040-Q,V-Q,Cable Knit Sweater,Harlow & Vane,Womens > Knitwear > Jumpers,67.58,Navy,S,in_stock,2026-09-19,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10040,VC-10040-R,V-R,Cable Knit Sweater,Harlow & Vane,Womens > Knitwear > Jumpers,67.58,Navy,M,in_stock,2026-09-19,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10040,VC-10040-S,V-S,Cable Knit Sweater,Harlow & Vane,Womens > Knitwear > Jumpers,72.58,Navy,XL,low_stock,2026-09-19,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10041,VC-10041-A,V-A,Wrap Midi Dress,Trestle Co,Womens > Dresses > Midi,83.43,Black,6,low_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10041,VC-10041-B,V-B,Wrap Midi Dress,Trestle Co,Womens > Dresses > Midi,86.43,Black,10,low_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10041,VC-10041-C,V-C,Wrap Midi Dress,Trestle Co,Womens > Dresses > Midi,86.43,Black,12,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10041,VC-10041-D,V-D,Wrap Midi Dress,Trestle Co,Womens > Dresses > Midi,84.43,Black,14,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10041,VC-10041-E,V-E,Wrap Midi Dress,Trestle Co,Womens > Dresses > Midi,83.43,Terracotta,6,low_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10041,VC-10041-F,V-F,Wrap Midi Dress,Trestle Co,Womens > Dresses > Midi,91.43,Terracotta,8,out_of_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10041,VC-10041-G,V-G,Wrap Midi Dress,Trestle Co,Womens > Dresses > Midi,86.43,Terracotta,10,out_of_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10041,VC-10041-H,V-H,Wrap Midi Dress,Trestle Co,Womens > Dresses > Midi,86.43,Terracotta,14,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10041,VC-10041-I,V-I,Wrap Midi Dress,Trestle Co,Womens > Dresses > Midi,86.43,Olive,6,out_of_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10041,VC-10041-J,V-J,Wrap Midi Dress,Trestle Co,Womens > Dresses > Midi,91.43,Olive,8,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10041,VC-10041-K,V-K,Wrap Midi Dress,Trestle Co,Womens > Dresses > Midi,86.43,Olive,12,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10041,VC-10041-L,V-L,Wrap Midi Dress,Trestle Co,Womens > Dresses > Midi,86.43,Navy,8,out_of_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10041,VC-10041-M,V-M,Wrap Midi Dress,Trestle Co,Womens > Dresses > Midi,86.43,Navy,10,out_of_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10041,VC-10041-N,V-N,Wrap Midi Dress,Trestle Co,Womens > Dresses > Midi,86.43,Navy,14,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10041,VC-10041-O,V-O,Wrap Midi Dress,Trestle Co,Womens > Dresses > Midi,86.43,Blush,6,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10041,VC-10041-P,V-P,Wrap Midi Dress,Trestle Co,Womens > Dresses > Midi,86.43,Blush,8,out_of_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10041,VC-10041-Q,V-Q,Wrap Midi Dress,Trestle Co,Womens > Dresses > Midi,88.43,Blush,10,out_of_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10041,VC-10041-R,V-R,Wrap Midi Dress,Trestle Co,Womens > Dresses > Midi,91.43,Blush,12,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10041,VC-10041-S,V-S,Wrap Midi Dress,Trestle Co,Womens > Dresses > Midi,88.43,Blush,14,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10042,VC-10042-A,V-A,Linen Blend Shirt,Northfield,Mens > Shirts > Casual,82.22,White,S,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10042,VC-10042-B,V-B,Linen Blend Shirt,Northfield,Mens > Shirts > Casual,77.22,White,M,out_of_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10042,VC-10042-C,V-C,Linen Blend Shirt,Northfield,Mens > Shirts > Casual,79.22,White,L,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10042,VC-10042-D,V-D,Linen Blend Shirt,Northfield,Mens > Shirts > Casual,75.22,White,XL,out_of_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10042,VC-10042-E,V-E,Linen Blend Shirt,Northfield,Mens > Shirts > Casual,77.22,White,XXL,low_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10042,VC-10042-F,V-F,Linen Blend Shirt,Northfield,Mens > Shirts > Casual,74.22,Sky Blue,M,out_of_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10042,VC-10042-G,V-G,Linen Blend Shirt,Northfield,Mens > Shirts > Casual,74.22,Sky Blue,L,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10042,VC-10042-H,V-H,Linen Blend Shirt,Northfield,Mens > Shirts > Casual,75.22,Sky Blue,XXL,low_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10042,VC-10042-I,V-I,Linen Blend Shirt,Northfield,Mens > Shirts > Casual,77.22,Charcoal,S,out_of_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10042,VC-10042-J,V-J,Linen Blend Shirt,Northfield,Mens > Shirts > Casual,77.22,Charcoal,M,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10042,VC-10042-K,V-K,Linen Blend Shirt,Northfield,Mens > Shirts > Casual,77.22,Charcoal,L,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10042,VC-10042-L,V-L,Linen Blend Shirt,Northfield,Mens > Shirts > Casual,79.22,Charcoal,XL,low_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10042,VC-10042-M,V-M,Linen Blend Shirt,Northfield,Mens > Shirts > Casual,77.22,Charcoal,XXL,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10042,VC-10042-N,V-N,Linen Blend Shirt,Northfield,Mens > Shirts > Casual,77.22,Olive,S,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10042,VC-10042-O,V-O,Linen Blend Shirt,Northfield,Mens > Shirts > Casual,79.22,Olive,M,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10042,VC-10042-P,V-P,Linen Blend Shirt,Northfield,Mens > Shirts > Casual,75.22,Olive,L,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10042,VC-10042-Q,V-Q,Linen Blend Shirt,Northfield,Mens > Shirts > Casual,77.22,Olive,XL,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10042,VC-10042-R,V-R,Linen Blend Shirt,Northfield,Mens > Shirts > Casual,77.22,Olive,XXL,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10043,VC-10043-A,V-A,Wool Overcoat,Blackwood Supply,Mens > Outerwear > Jackets,183.11,Black,S,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10043,VC-10043-B,V-B,Wool Overcoat,Blackwood Supply,Mens > Outerwear > Jackets,183.11,Black,M,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10043,VC-10043-C,V-C,Wool Overcoat,Blackwood Supply,Mens > Outerwear > Jackets,183.11,Black,L,out_of_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10043,VC-10043-D,V-D,Wool Overcoat,Blackwood Supply,Mens > Outerwear > Jackets,183.11,Black,XL,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10043,VC-10043-E,V-E,Wool Overcoat,Blackwood Supply,Mens > Outerwear > Jackets,188.11,Navy,S,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10043,VC-10043-F,V-F,Wool Overcoat,Blackwood Supply,Mens > Outerwear > Jackets,183.11,Navy,M,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10043,VC-10043-G,V-G,Wool Overcoat,Blackwood Supply,Mens > Outerwear > Jackets,183.11,Navy,L,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10043,VC-10043-H,V-H,Wool Overcoat,Blackwood Supply,Mens > Outerwear > Jackets,181.11,Navy,XL,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10043,VC-10043-I,V-I,Wool Overcoat,Blackwood Supply,Mens > Outerwear > Jackets,183.11,Stone,S,out_of_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10043,VC-10043-J,V-J,Wool Overcoat,Blackwood Supply,Mens > Outerwear > Jackets,181.11,Stone,M,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10043,VC-10043-K,V-K,Wool Overcoat,Blackwood Supply,Mens > Outerwear > Jackets,183.11,Stone,L,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10043,VC-10043-L,V-L,Wool Overcoat,Blackwood Supply,Mens > Outerwear > Jackets,185.11,Stone,XL,out_of_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10044,VC-10044-A,V-A,Leather Tote,Harlow & Vane,Accessories > Bags,53.44,Olive,OS,low_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10044,VC-10044-B,V-B,Leather Tote,Harlow & Vane,Accessories > Bags,56.44,Black,OS,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10044,VC-10044-C,V-C,Leather Tote,Harlow & Vane,Accessories > Bags,54.44,Tan,OS,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10044,VC-10044-D,V-D,Leather Tote,Harlow & Vane,Accessories > Bags,54.44,Rust,OS,low_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10045,VC-10045-A,V-A,Wool Scarf,Trestle Co,Accessories > Scarves,35.63,Charcoal,OS,low_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10045,VC-10045-B,V-B,Wool Scarf,Trestle Co,Accessories > Scarves,40.63,Camel,OS,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10045,VC-10045-C,V-C,Wool Scarf,Trestle Co,Accessories > Scarves,37.63,Burgundy,OS,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10046,VC-10046-A,V-A,Chelsea Boot,Modern Oat,Footwear > Boots,166.71,Black,6,in_stock,2026-09-18,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10046,VC-10046-B,V-B,Chelsea Boot,Modern Oat,Footwear > Boots,168.71,Black,7,in_stock,2026-09-18,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10046,VC-10046-C,V-C,Chelsea Boot,Modern Oat,Footwear > Boots,164.71,Black,8,low_stock,2026-09-18,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10046,VC-10046-D,V-D,Chelsea Boot,Modern Oat,Footwear > Boots,164.71,Black,9,in_stock,2026-09-18,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10046,VC-10046-E,V-E,Chelsea Boot,Modern Oat,Footwear > Boots,166.71,Black,10,low_stock,2026-09-18,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10046,VC-10046-F,V-F,Chelsea Boot,Modern Oat,Footwear > Boots,171.71,Tan,6,in_stock,2026-09-18,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10046,VC-10046-G,V-G,Chelsea Boot,Modern Oat,Footwear > Boots,163.71,Tan,7,in_stock,2026-09-18,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10046,VC-10046-H,V-H,Chelsea Boot,Modern Oat,Footwear > Boots,163.71,Tan,8,in_stock,2026-09-18,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10046,VC-10046-I,V-I,Chelsea Boot,Modern Oat,Footwear > Boots,168.71,Tan,9,out_of_stock,2026-09-18,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10046,VC-10046-J,V-J,Chelsea Boot,Modern Oat,Footwear > Boots,164.71,Tan,10,out_of_stock,2026-09-18,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10046,VC-10046-K,V-K,Chelsea Boot,Modern Oat,Footwear > Boots,164.71,Tan,11,in_stock,2026-09-18,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10046,VC-10046-L,V-L,Chelsea Boot,Modern Oat,Footwear > Boots,168.71,Brown,6,low_stock,2026-09-18,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10046,VC-10046-M,V-M,Chelsea Boot,Modern Oat,Footwear > Boots,168.71,Brown,7,in_stock,2026-09-18,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10046,VC-10046-N,V-N,Chelsea Boot,Modern Oat,Footwear > Boots,166.71,Brown,9,out_of_stock,2026-09-18,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10046,VC-10046-O,V-O,Chelsea Boot,Modern Oat,Footwear > Boots,164.71,Brown,10,in_stock,2026-09-18,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10046,VC-10046-P,V-P,Chelsea Boot,Modern Oat,Footwear > Boots,168.71,Brown,11,low_stock,2026-09-18,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10047,VC-10047-A,V-A,Court Sneaker,Cedarcross,Footwear > Sneakers,105.75,White,6,low_stock,2026-09-14,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10047,VC-10047-B,V-B,Court Sneaker,Cedarcross,Footwear > Sneakers,106.75,White,7,in_stock,2026-09-14,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10047,VC-10047-C,V-C,Court Sneaker,Cedarcross,Footwear > Sneakers,106.75,White,8,in_stock,2026-09-14,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10047,VC-10047-D,V-D,Court Sneaker,Cedarcross,Footwear > Sneakers,106.75,White,9,low_stock,2026-09-14,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10047,VC-10047-E,V-E,Court Sneaker,Cedarcross,Footwear > Sneakers,108.75,White,10,in_stock,2026-09-14,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10047,VC-10047-F,V-F,Court Sneaker,Cedarcross,Footwear > Sneakers,108.75,White,11,in_stock,2026-09-14,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10047,VC-10047-G,V-G,Court Sneaker,Cedarcross,Footwear > Sneakers,108.75,Black,6,in_stock,2026-09-14,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10047,VC-10047-H,V-H,Court Sneaker,Cedarcross,Footwear > Sneakers,108.75,Black,9,out_of_stock,2026-09-14,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10047,VC-10047-I,V-I,Court Sneaker,Cedarcross,Footwear > Sneakers,110.75,Black,10,in_stock,2026-09-14,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10047,VC-10047-J,V-J,Court Sneaker,Cedarcross,Footwear > Sneakers,110.75,Black,11,in_stock,2026-09-14,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10047,VC-10047-K,V-K,Court Sneaker,Cedarcross,Footwear > Sneakers,106.75,Grey,6,in_stock,2026-09-14,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10047,VC-10047-L,V-L,Court Sneaker,Cedarcross,Footwear > Sneakers,108.75,Grey,7,in_stock,2026-09-14,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10047,VC-10047-M,V-M,Court Sneaker,Cedarcross,Footwear > Sneakers,108.75,Grey,8,in_stock,2026-09-14,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10047,VC-10047-N,V-N,Court Sneaker,Cedarcross,Footwear > Sneakers,108.75,Grey,9,low_stock,2026-09-14,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10047,VC-10047-O,V-O,Court Sneaker,Cedarcross,Footwear > Sneakers,113.75,Grey,10,in_stock,2026-09-14,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10047,VC-10047-P,V-P,Court Sneaker,Cedarcross,Footwear > Sneakers,110.75,Grey,11,out_of_stock,2026-09-14,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10048,VC-10048-A,V-A,Ribbed Knit Jumper,Northfield,Womens > Knitwear > Jumpers,89.04,Charcoal,XS,out_of_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10048,VC-10048-B,V-B,Ribbed Knit Jumper,Northfield,Womens > Knitwear > Jumpers,86.04,Charcoal,S,out_of_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10048,VC-10048-C,V-C,Ribbed Knit Jumper,Northfield,Womens > Knitwear > Jumpers,89.04,Charcoal,L,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10048,VC-10048-D,V-D,Ribbed Knit Jumper,Northfield,Womens > Knitwear > Jumpers,87.04,Charcoal,XL,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10048,VC-10048-E,V-E,Ribbed Knit Jumper,Northfield,Womens > Knitwear > Jumpers,89.04,Cream,XS,low_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10048,VC-10048-F,V-F,Ribbed Knit Jumper,Northfield,Womens > Knitwear > Jumpers,89.04,Cream,M,low_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10048,VC-10048-G,V-G,Ribbed Knit Jumper,Northfield,Womens > Knitwear > Jumpers,94.04,Cream,XL,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10048,VC-10048-H,V-H,Ribbed Knit Jumper,Northfield,Womens > Knitwear > Jumpers,89.04,Forest Green,XS,low_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10048,VC-10048-I,V-I,Ribbed Knit Jumper,Northfield,Womens > Knitwear > Jumpers,86.04,Forest Green,S,out_of_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10048,VC-10048-J,V-J,Ribbed Knit Jumper,Northfield,Womens > Knitwear > Jumpers,94.04,Forest Green,M,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10048,VC-10048-K,V-K,Ribbed Knit Jumper,Northfield,Womens > Knitwear > Jumpers,89.04,Forest Green,L,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10048,VC-10048-L,V-L,Ribbed Knit Jumper,Northfield,Womens > Knitwear > Jumpers,91.04,Forest Green,XL,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10048,VC-10048-M,V-M,Ribbed Knit Jumper,Northfield,Womens > Knitwear > Jumpers,86.04,Rust,XS,low_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10048,VC-10048-N,V-N,Ribbed Knit Jumper,Northfield,Womens > Knitwear > Jumpers,86.04,Rust,S,out_of_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10048,VC-10048-O,V-O,Ribbed Knit Jumper,Northfield,Womens > Knitwear > Jumpers,86.04,Rust,M,low_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10048,VC-10048-P,V-P,Ribbed Knit Jumper,Northfield,Womens > Knitwear > Jumpers,94.04,Rust,XL,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10048,VC-10048-Q,V-Q,Ribbed Knit Jumper,Northfield,Womens > Knitwear > Jumpers,91.04,Navy,XS,low_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10048,VC-10048-R,V-R,Ribbed Knit Jumper,Northfield,Womens > Knitwear > Jumpers,89.04,Navy,S,low_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10048,VC-10048-S,V-S,Ribbed Knit Jumper,Northfield,Womens > Knitwear > Jumpers,89.04,Navy,M,low_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10048,VC-10048-T,V-T,Ribbed Knit Jumper,Northfield,Womens > Knitwear > Jumpers,94.04,Navy,XL,out_of_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10049,VC-10049-A,V-A,Fluted Midi Dress,Northfield,Womens > Dresses > Midi,71.97,Black,6,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10049,VC-10049-B,V-B,Fluted Midi Dress,Northfield,Womens > Dresses > Midi,74.97,Black,8,out_of_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10049,VC-10049-C,V-C,Fluted Midi Dress,Northfield,Womens > Dresses > Midi,79.97,Black,12,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10049,VC-10049-D,V-D,Fluted Midi Dress,Northfield,Womens > Dresses > Midi,74.97,Black,14,low_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10049,VC-10049-E,V-E,Fluted Midi Dress,Northfield,Womens > Dresses > Midi,74.97,Terracotta,6,low_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10049,VC-10049-F,V-F,Fluted Midi Dress,Northfield,Womens > Dresses > Midi,79.97,Terracotta,8,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10049,VC-10049-G,V-G,Fluted Midi Dress,Northfield,Womens > Dresses > Midi,74.97,Terracotta,10,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10049,VC-10049-H,V-H,Fluted Midi Dress,Northfield,Womens > Dresses > Midi,76.97,Terracotta,12,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10049,VC-10049-I,V-I,Fluted Midi Dress,Northfield,Womens > Dresses > Midi,74.97,Olive,6,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10049,VC-10049-J,V-J,Fluted Midi Dress,Northfield,Womens > Dresses > Midi,71.97,Olive,8,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10049,VC-10049-K,V-K,Fluted Midi Dress,Northfield,Womens > Dresses > Midi,74.97,Olive,10,out_of_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10049,VC-10049-L,V-L,Fluted Midi Dress,Northfield,Womens > Dresses > Midi,79.97,Olive,12,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10049,VC-10049-M,V-M,Fluted Midi Dress,Northfield,Womens > Dresses > Midi,71.97,Olive,14,low_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10049,VC-10049-N,V-N,Fluted Midi Dress,Northfield,Womens > Dresses > Midi,74.97,Navy,6,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10049,VC-10049-O,V-O,Fluted Midi Dress,Northfield,Womens > Dresses > Midi,79.97,Navy,8,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10049,VC-10049-P,V-P,Fluted Midi Dress,Northfield,Womens > Dresses > Midi,72.97,Navy,12,out_of_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10049,VC-10049-Q,V-Q,Fluted Midi Dress,Northfield,Womens > Dresses > Midi,74.97,Navy,14,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10049,VC-10049-R,V-R,Fluted Midi Dress,Northfield,Womens > Dresses > Midi,72.97,Blush,6,out_of_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10049,VC-10049-S,V-S,Fluted Midi Dress,Northfield,Womens > Dresses > Midi,74.97,Blush,8,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10049,VC-10049-T,V-T,Fluted Midi Dress,Northfield,Womens > Dresses > Midi,76.97,Blush,12,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10049,VC-10049-U,V-U,Fluted Midi Dress,Northfield,Womens > Dresses > Midi,74.97,Blush,14,out_of_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10050,VC-10050-A,V-A,Linen Blend Shirt,Harlow & Vane,Mens > Shirts > Casual,60.33,White,S,low_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10050,VC-10050-B,V-B,Linen Blend Shirt,Harlow & Vane,Mens > Shirts > Casual,58.33,White,M,low_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10050,VC-10050-C,V-C,Linen Blend Shirt,Harlow & Vane,Mens > Shirts > Casual,58.33,White,L,low_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10050,VC-10050-D,V-D,Linen Blend Shirt,Harlow & Vane,Mens > Shirts > Casual,56.33,White,XXL,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10050,VC-10050-E,V-E,Linen Blend Shirt,Harlow & Vane,Mens > Shirts > Casual,60.33,Sky Blue,S,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10050,VC-10050-F,V-F,Linen Blend Shirt,Harlow & Vane,Mens > Shirts > Casual,55.33,Sky Blue,M,out_of_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10050,VC-10050-G,V-G,Linen Blend Shirt,Harlow & Vane,Mens > Shirts > Casual,58.33,Sky Blue,L,out_of_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10050,VC-10050-H,V-H,Linen Blend Shirt,Harlow & Vane,Mens > Shirts > Casual,58.33,Sky Blue,XL,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10050,VC-10050-I,V-I,Linen Blend Shirt,Harlow & Vane,Mens > Shirts > Casual,58.33,Sky Blue,XXL,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10050,VC-10050-J,V-J,Linen Blend Shirt,Harlow & Vane,Mens > Shirts > Casual,63.33,Charcoal,S,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10050,VC-10050-K,V-K,Linen Blend Shirt,Harlow & Vane,Mens > Shirts > Casual,56.33,Charcoal,L,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10050,VC-10050-L,V-L,Linen Blend Shirt,Harlow & Vane,Mens > Shirts > Casual,60.33,Charcoal,XL,out_of_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10050,VC-10050-M,V-M,Linen Blend Shirt,Harlow & Vane,Mens > Shirts > Casual,63.33,Charcoal,XXL,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10050,VC-10050-N,V-N,Linen Blend Shirt,Harlow & Vane,Mens > Shirts > Casual,60.33,Olive,M,out_of_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10050,VC-10050-O,V-O,Linen Blend Shirt,Harlow & Vane,Mens > Shirts > Casual,56.33,Olive,L,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10050,VC-10050-P,V-P,Linen Blend Shirt,Harlow & Vane,Mens > Shirts > Casual,55.33,Olive,XL,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10050,VC-10050-Q,V-Q,Linen Blend Shirt,Harlow & Vane,Mens > Shirts > Casual,60.33,Olive,XXL,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10051,VC-10051-A,V-A,Waxed Field Jacket,Trestle Co,Mens > Outerwear > Jackets,186.36,Black,S,out_of_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10051,VC-10051-B,V-B,Waxed Field Jacket,Trestle Co,Mens > Outerwear > Jackets,188.36,Black,M,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10051,VC-10051-C,V-C,Waxed Field Jacket,Trestle Co,Mens > Outerwear > Jackets,193.36,Black,L,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10051,VC-10051-D,V-D,Waxed Field Jacket,Trestle Co,Mens > Outerwear > Jackets,188.36,Black,XL,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10051,VC-10051-E,V-E,Waxed Field Jacket,Trestle Co,Mens > Outerwear > Jackets,188.36,Navy,S,out_of_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10051,VC-10051-F,V-F,Waxed Field Jacket,Trestle Co,Mens > Outerwear > Jackets,188.36,Navy,M,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10051,VC-10051-G,V-G,Waxed Field Jacket,Trestle Co,Mens > Outerwear > Jackets,190.36,Navy,L,low_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10051,VC-10051-H,V-H,Waxed Field Jacket,Trestle Co,Mens > Outerwear > Jackets,188.36,Navy,XL,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10051,VC-10051-I,V-I,Waxed Field Jacket,Trestle Co,Mens > Outerwear > Jackets,188.36,Stone,S,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10051,VC-10051-J,V-J,Waxed Field Jacket,Trestle Co,Mens > Outerwear > Jackets,186.36,Stone,M,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10051,VC-10051-K,V-K,Waxed Field Jacket,Trestle Co,Mens > Outerwear > Jackets,188.36,Stone,XL,out_of_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10052,VC-10052-A,V-A,Leather Tote,Trestle Co,Accessories > Bags,101.4,Olive,OS,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10052,VC-10052-B,V-B,Leather Tote,Trestle Co,Accessories > Bags,103.4,Black,OS,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10052,VC-10052-C,V-C,Leather Tote,Trestle Co,Accessories > Bags,105.4,Tan,OS,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10052,VC-10052-D,V-D,Leather Tote,Trestle Co,Accessories > Bags,108.4,Rust,OS,low_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10053,VC-10053-A,V-A,Wool Scarf,Trestle Co,Accessories > Scarves,44.1,Charcoal,OS,low_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10053,VC-10053-B,V-B,Wool Scarf,Trestle Co,Accessories > Scarves,42.1,Burgundy,OS,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10054,VC-10054-A,V-A,Lace-Up Work Boot,Modern Oat,Footwear > Boots,149.83,Black,6,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10054,VC-10054-B,V-B,Lace-Up Work Boot,Modern Oat,Footwear > Boots,154.83,Black,7,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10054,VC-10054-C,V-C,Lace-Up Work Boot,Modern Oat,Footwear > Boots,151.83,Black,8,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10054,VC-10054-D,V-D,Lace-Up Work Boot,Modern Oat,Footwear > Boots,149.83,Black,9,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10054,VC-10054-E,V-E,Lace-Up Work Boot,Modern Oat,Footwear > Boots,147.83,Black,10,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10054,VC-10054-F,V-F,Lace-Up Work Boot,Modern Oat,Footwear > Boots,146.83,Black,11,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10054,VC-10054-G,V-G,Lace-Up Work Boot,Modern Oat,Footwear > Boots,149.83,Tan,6,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10054,VC-10054-H,V-H,Lace-Up Work Boot,Modern Oat,Footwear > Boots,151.83,Tan,7,out_of_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10054,VC-10054-I,V-I,Lace-Up Work Boot,Modern Oat,Footwear > Boots,151.83,Tan,8,low_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10054,VC-10054-J,V-J,Lace-Up Work Boot,Modern Oat,Footwear > Boots,149.83,Tan,10,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10054,VC-10054-K,V-K,Lace-Up Work Boot,Modern Oat,Footwear > Boots,149.83,Brown,6,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10054,VC-10054-L,V-L,Lace-Up Work Boot,Modern Oat,Footwear > Boots,151.83,Brown,8,low_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10054,VC-10054-M,V-M,Lace-Up Work Boot,Modern Oat,Footwear > Boots,147.83,Brown,9,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10054,VC-10054-N,V-N,Lace-Up Work Boot,Modern Oat,Footwear > Boots,149.83,Brown,10,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10054,VC-10054-O,V-O,Lace-Up Work Boot,Modern Oat,Footwear > Boots,149.83,Brown,11,out_of_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10055,VC-10055-A,V-A,Retro Runner,Trestle Co,Footwear > Sneakers,76.41,White,6,low_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10055,VC-10055-B,V-B,Retro Runner,Trestle Co,Footwear > Sneakers,71.41,White,8,out_of_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10055,VC-10055-C,V-C,Retro Runner,Trestle Co,Footwear > Sneakers,73.41,White,9,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10055,VC-10055-D,V-D,Retro Runner,Trestle Co,Footwear > Sneakers,76.41,White,10,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10055,VC-10055-E,V-E,Retro Runner,Trestle Co,Footwear > Sneakers,76.41,White,11,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10055,VC-10055-F,V-F,Retro Runner,Trestle Co,Footwear > Sneakers,71.41,Black,7,low_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10055,VC-10055-G,V-G,Retro Runner,Trestle Co,Footwear > Sneakers,71.41,Black,11,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10055,VC-10055-H,V-H,Retro Runner,Trestle Co,Footwear > Sneakers,76.41,Grey,6,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10055,VC-10055-I,V-I,Retro Runner,Trestle Co,Footwear > Sneakers,68.41,Grey,7,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10055,VC-10055-J,V-J,Retro Runner,Trestle Co,Footwear > Sneakers,76.41,Grey,8,out_of_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10055,VC-10055-K,V-K,Retro Runner,Trestle Co,Footwear > Sneakers,68.41,Grey,9,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10055,VC-10055-L,V-L,Retro Runner,Trestle Co,Footwear > Sneakers,71.41,Grey,10,out_of_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10055,VC-10055-M,V-M,Retro Runner,Trestle Co,Footwear > Sneakers,68.41,Grey,11,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10056,VC-10056-A,V-A,Ribbed Knit Jumper,Harlow & Vane,Womens > Knitwear > Jumpers,89.65,Charcoal,XS,out_of_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10056,VC-10056-B,V-B,Ribbed Knit Jumper,Harlow & Vane,Womens > Knitwear > Jumpers,96.65,Charcoal,M,low_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10056,VC-10056-C,V-C,Ribbed Knit Jumper,Harlow & Vane,Womens > Knitwear > Jumpers,91.65,Charcoal,L,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10056,VC-10056-D,V-D,Ribbed Knit Jumper,Harlow & Vane,Womens > Knitwear > Jumpers,91.65,Charcoal,XL,low_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10056,VC-10056-E,V-E,Ribbed Knit Jumper,Harlow & Vane,Womens > Knitwear > Jumpers,91.65,Cream,XS,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10056,VC-10056-F,V-F,Ribbed Knit Jumper,Harlow & Vane,Womens > Knitwear > Jumpers,93.65,Cream,S,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10056,VC-10056-G,V-G,Ribbed Knit Jumper,Harlow & Vane,Womens > Knitwear > Jumpers,93.65,Cream,M,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10056,VC-10056-H,V-H,Ribbed Knit Jumper,Harlow & Vane,Womens > Knitwear > Jumpers,91.65,Cream,L,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10056,VC-10056-I,V-I,Ribbed Knit Jumper,Harlow & Vane,Womens > Knitwear > Jumpers,88.65,Forest Green,XS,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10056,VC-10056-J,V-J,Ribbed Knit Jumper,Harlow & Vane,Womens > Knitwear > Jumpers,91.65,Forest Green,S,out_of_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10056,VC-10056-K,V-K,Ribbed Knit Jumper,Harlow & Vane,Womens > Knitwear > Jumpers,96.65,Forest Green,M,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10056,VC-10056-L,V-L,Ribbed Knit Jumper,Harlow & Vane,Womens > Knitwear > Jumpers,91.65,Forest Green,XL,low_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10056,VC-10056-M,V-M,Ribbed Knit Jumper,Harlow & Vane,Womens > Knitwear > Jumpers,91.65,Rust,XS,low_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10056,VC-10056-N,V-N,Ribbed Knit Jumper,Harlow & Vane,Womens > Knitwear > Jumpers,93.65,Rust,S,out_of_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10056,VC-10056-O,V-O,Ribbed Knit Jumper,Harlow & Vane,Womens > Knitwear > Jumpers,88.65,Rust,M,out_of_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10056,VC-10056-P,V-P,Ribbed Knit Jumper,Harlow & Vane,Womens > Knitwear > Jumpers,89.65,Rust,L,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10056,VC-10056-Q,V-Q,Ribbed Knit Jumper,Harlow & Vane,Womens > Knitwear > Jumpers,93.65,Navy,S,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10056,VC-10056-R,V-R,Ribbed Knit Jumper,Harlow & Vane,Womens > Knitwear > Jumpers,91.65,Navy,M,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10057,VC-10057-A,V-A,Fluted Midi Dress,Trestle Co,Womens > Dresses > Midi,88.12,Black,6,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10057,VC-10057-B,V-B,Fluted Midi Dress,Trestle Co,Womens > Dresses > Midi,88.12,Black,12,out_of_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10057,VC-10057-C,V-C,Fluted Midi Dress,Trestle Co,Womens > Dresses > Midi,85.12,Black,14,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10057,VC-10057-D,V-D,Fluted Midi Dress,Trestle Co,Womens > Dresses > Midi,85.12,Terracotta,6,out_of_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10057,VC-10057-E,V-E,Fluted Midi Dress,Trestle Co,Womens > Dresses > Midi,88.12,Terracotta,8,low_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10057,VC-10057-F,V-F,Fluted Midi Dress,Trestle Co,Womens > Dresses > Midi,93.12,Terracotta,12,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10057,VC-10057-G,V-G,Fluted Midi Dress,Trestle Co,Womens > Dresses > Midi,88.12,Terracotta,14,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10057,VC-10057-H,V-H,Fluted Midi Dress,Trestle Co,Womens > Dresses > Midi,86.12,Olive,6,low_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10057,VC-10057-I,V-I,Fluted Midi Dress,Trestle Co,Womens > Dresses > Midi,88.12,Olive,10,low_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10057,VC-10057-J,V-J,Fluted Midi Dress,Trestle Co,Womens > Dresses > Midi,88.12,Navy,6,low_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10057,VC-10057-K,V-K,Fluted Midi Dress,Trestle Co,Womens > Dresses > Midi,88.12,Navy,8,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10057,VC-10057-L,V-L,Fluted Midi Dress,Trestle Co,Womens > Dresses > Midi,90.12,Navy,10,low_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10057,VC-10057-M,V-M,Fluted Midi Dress,Trestle Co,Womens > Dresses > Midi,86.12,Navy,12,low_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10057,VC-10057-N,V-N,Fluted Midi Dress,Trestle Co,Womens > Dresses > Midi,88.12,Blush,6,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10057,VC-10057-O,V-O,Fluted Midi Dress,Trestle Co,Womens > Dresses > Midi,88.12,Blush,8,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10057,VC-10057-P,V-P,Fluted Midi Dress,Trestle Co,Womens > Dresses > Midi,88.12,Blush,10,out_of_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10057,VC-10057-Q,V-Q,Fluted Midi Dress,Trestle Co,Womens > Dresses > Midi,90.12,Blush,14,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10058,VC-10058-A,V-A,Oxford Casual Shirt,Harlow & Vane,Mens > Shirts > Casual,57.68,White,S,in_stock,2026-09-13,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10058,VC-10058-B,V-B,Oxford Casual Shirt,Harlow & Vane,Mens > Shirts > Casual,59.68,White,M,low_stock,2026-09-13,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10058,VC-10058-C,V-C,Oxford Casual Shirt,Harlow & Vane,Mens > Shirts > Casual,62.68,White,L,in_stock,2026-09-13,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10058,VC-10058-D,V-D,Oxford Casual Shirt,Harlow & Vane,Mens > Shirts > Casual,57.68,White,XL,low_stock,2026-09-13,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10058,VC-10058-E,V-E,Oxford Casual Shirt,Harlow & Vane,Mens > Shirts > Casual,57.68,White,XXL,in_stock,2026-09-13,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10058,VC-10058-F,V-F,Oxford Casual Shirt,Harlow & Vane,Mens > Shirts > Casual,57.68,Sky Blue,S,in_stock,2026-09-13,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10058,VC-10058-G,V-G,Oxford Casual Shirt,Harlow & Vane,Mens > Shirts > Casual,57.68,Sky Blue,M,in_stock,2026-09-13,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10058,VC-10058-H,V-H,Oxford Casual Shirt,Harlow & Vane,Mens > Shirts > Casual,57.68,Sky Blue,L,in_stock,2026-09-13,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10058,VC-10058-I,V-I,Oxford Casual Shirt,Harlow & Vane,Mens > Shirts > Casual,57.68,Sky Blue,XL,in_stock,2026-09-13,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10058,VC-10058-J,V-J,Oxford Casual Shirt,Harlow & Vane,Mens > Shirts > Casual,62.68,Sky Blue,XXL,low_stock,2026-09-13,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10058,VC-10058-K,V-K,Oxford Casual Shirt,Harlow & Vane,Mens > Shirts > Casual,55.68,Charcoal,S,in_stock,2026-09-13,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10058,VC-10058-L,V-L,Oxford Casual Shirt,Harlow & Vane,Mens > Shirts > Casual,59.68,Charcoal,M,in_stock,2026-09-13,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10058,VC-10058-M,V-M,Oxford Casual Shirt,Harlow & Vane,Mens > Shirts > Casual,62.68,Charcoal,L,low_stock,2026-09-13,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10058,VC-10058-N,V-N,Oxford Casual Shirt,Harlow & Vane,Mens > Shirts > Casual,57.68,Charcoal,XXL,out_of_stock,2026-09-13,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10058,VC-10058-O,V-O,Oxford Casual Shirt,Harlow & Vane,Mens > Shirts > Casual,57.68,Olive,S,low_stock,2026-09-13,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10058,VC-10058-P,V-P,Oxford Casual Shirt,Harlow & Vane,Mens > Shirts > Casual,62.68,Olive,M,in_stock,2026-09-13,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10058,VC-10058-Q,V-Q,Oxford Casual Shirt,Harlow & Vane,Mens > Shirts > Casual,62.68,Olive,L,out_of_stock,2026-09-13,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10058,VC-10058-R,V-R,Oxford Casual Shirt,Harlow & Vane,Mens > Shirts > Casual,54.68,Olive,XL,in_stock,2026-09-13,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10058,VC-10058-S,V-S,Oxford Casual Shirt,Harlow & Vane,Mens > Shirts > Casual,59.68,Olive,XXL,in_stock,2026-09-13,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10059,VC-10059-A,V-A,Waxed Field Jacket,Northfield,Mens > Outerwear > Jackets,115.79,Black,S,low_stock,2026-09-23,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10059,VC-10059-B,V-B,Waxed Field Jacket,Northfield,Mens > Outerwear > Jackets,115.79,Black,M,low_stock,2026-09-23,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10059,VC-10059-C,V-C,Waxed Field Jacket,Northfield,Mens > Outerwear > Jackets,117.79,Navy,S,out_of_stock,2026-09-23,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10059,VC-10059-D,V-D,Waxed Field Jacket,Northfield,Mens > Outerwear > Jackets,117.79,Navy,M,out_of_stock,2026-09-23,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10059,VC-10059-E,V-E,Waxed Field Jacket,Northfield,Mens > Outerwear > Jackets,115.79,Navy,L,low_stock,2026-09-23,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10059,VC-10059-F,V-F,Waxed Field Jacket,Northfield,Mens > Outerwear > Jackets,117.79,Navy,XL,out_of_stock,2026-09-23,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10059,VC-10059-G,V-G,Waxed Field Jacket,Northfield,Mens > Outerwear > Jackets,113.79,Stone,S,in_stock,2026-09-23,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10059,VC-10059-H,V-H,Waxed Field Jacket,Northfield,Mens > Outerwear > Jackets,115.79,Stone,M,in_stock,2026-09-23,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10059,VC-10059-I,V-I,Waxed Field Jacket,Northfield,Mens > Outerwear > Jackets,112.79,Stone,L,in_stock,2026-09-23,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10059,VC-10059-J,V-J,Waxed Field Jacket,Northfield,Mens > Outerwear > Jackets,117.79,Stone,XL,in_stock,2026-09-23,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10060,VC-10060-A,V-A,Canvas Weekend Bag,Cedarcross,Accessories > Bags,73.09,Olive,OS,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10060,VC-10060-B,V-B,Canvas Weekend Bag,Cedarcross,Accessories > Bags,68.09,Black,OS,low_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10060,VC-10060-C,V-C,Canvas Weekend Bag,Cedarcross,Accessories > Bags,68.09,Rust,OS,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10061,VC-10061-A,V-A,Cashmere Blend Scarf,Cedarcross,Accessories > Scarves,21.81,Charcoal,OS,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10061,VC-10061-B,V-B,Cashmere Blend Scarf,Cedarcross,Accessories > Scarves,16.81,Burgundy,OS,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10062,VC-10062-A,V-A,Lace-Up Work Boot,Harlow & Vane,Footwear > Boots,168.69,Black,6,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10062,VC-10062-B,V-B,Lace-Up Work Boot,Harlow & Vane,Footwear > Boots,168.69,Black,7,out_of_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10062,VC-10062-C,V-C,Lace-Up Work Boot,Harlow & Vane,Footwear > Boots,168.69,Black,8,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10062,VC-10062-D,V-D,Lace-Up Work Boot,Harlow & Vane,Footwear > Boots,170.69,Black,9,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10062,VC-10062-E,V-E,Lace-Up Work Boot,Harlow & Vane,Footwear > Boots,168.69,Black,11,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10062,VC-10062-F,V-F,Lace-Up Work Boot,Harlow & Vane,Footwear > Boots,166.69,Tan,6,low_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10062,VC-10062-G,V-G,Lace-Up Work Boot,Harlow & Vane,Footwear > Boots,168.69,Tan,7,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10062,VC-10062-H,V-H,Lace-Up Work Boot,Harlow & Vane,Footwear > Boots,166.69,Tan,8,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10062,VC-10062-I,V-I,Lace-Up Work Boot,Harlow & Vane,Footwear > Boots,173.69,Tan,9,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10062,VC-10062-J,V-J,Lace-Up Work Boot,Harlow & Vane,Footwear > Boots,173.69,Tan,10,out_of_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10062,VC-10062-K,V-K,Lace-Up Work Boot,Harlow & Vane,Footwear > Boots,168.69,Brown,6,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10062,VC-10062-L,V-L,Lace-Up Work Boot,Harlow & Vane,Footwear > Boots,173.69,Brown,7,low_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10062,VC-10062-M,V-M,Lace-Up Work Boot,Harlow & Vane,Footwear > Boots,170.69,Brown,8,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10062,VC-10062-N,V-N,Lace-Up Work Boot,Harlow & Vane,Footwear > Boots,168.69,Brown,9,low_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10062,VC-10062-O,V-O,Lace-Up Work Boot,Harlow & Vane,Footwear > Boots,168.69,Brown,10,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10062,VC-10062-P,V-P,Lace-Up Work Boot,Harlow & Vane,Footwear > Boots,168.69,Brown,11,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10063,VC-10063-A,V-A,Retro Runner,Modern Oat,Footwear > Sneakers,107.89,White,6,out_of_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10063,VC-10063-B,V-B,Retro Runner,Modern Oat,Footwear > Sneakers,109.89,White,7,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10063,VC-10063-C,V-C,Retro Runner,Modern Oat,Footwear > Sneakers,105.89,White,8,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10063,VC-10063-D,V-D,Retro Runner,Modern Oat,Footwear > Sneakers,105.89,White,10,out_of_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10063,VC-10063-E,V-E,Retro Runner,Modern Oat,Footwear > Sneakers,107.89,White,11,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10063,VC-10063-F,V-F,Retro Runner,Modern Oat,Footwear > Sneakers,107.89,Black,6,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10063,VC-10063-G,V-G,Retro Runner,Modern Oat,Footwear > Sneakers,107.89,Black,7,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10063,VC-10063-H,V-H,Retro Runner,Modern Oat,Footwear > Sneakers,107.89,Black,8,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10063,VC-10063-I,V-I,Retro Runner,Modern Oat,Footwear > Sneakers,107.89,Black,10,out_of_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10063,VC-10063-J,V-J,Retro Runner,Modern Oat,Footwear > Sneakers,104.89,Grey,6,low_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10063,VC-10063-K,V-K,Retro Runner,Modern Oat,Footwear > Sneakers,107.89,Grey,8,out_of_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10063,VC-10063-L,V-L,Retro Runner,Modern Oat,Footwear > Sneakers,107.89,Grey,9,low_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10063,VC-10063-M,V-M,Retro Runner,Modern Oat,Footwear > Sneakers,112.89,Grey,10,low_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10063,VC-10063-N,V-N,Retro Runner,Modern Oat,Footwear > Sneakers,104.89,Grey,11,out_of_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10064,VC-10064-A,V-A,Cropped Wool Jumper,Northfield,Womens > Knitwear > Jumpers,49.45,Charcoal,XS,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10064,VC-10064-B,V-B,Cropped Wool Jumper,Northfield,Womens > Knitwear > Jumpers,49.45,Charcoal,S,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10064,VC-10064-C,V-C,Cropped Wool Jumper,Northfield,Womens > Knitwear > Jumpers,51.45,Charcoal,L,low_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10064,VC-10064-D,V-D,Cropped Wool Jumper,Northfield,Womens > Knitwear > Jumpers,46.45,Charcoal,XL,out_of_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10064,VC-10064-E,V-E,Cropped Wool Jumper,Northfield,Womens > Knitwear > Jumpers,54.45,Cream,S,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10064,VC-10064-F,V-F,Cropped Wool Jumper,Northfield,Womens > Knitwear > Jumpers,54.45,Cream,M,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10064,VC-10064-G,V-G,Cropped Wool Jumper,Northfield,Womens > Knitwear > Jumpers,49.45,Cream,L,out_of_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10064,VC-10064-H,V-H,Cropped Wool Jumper,Northfield,Womens > Knitwear > Jumpers,49.45,Cream,XL,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10064,VC-10064-I,V-I,Cropped Wool Jumper,Northfield,Womens > Knitwear > Jumpers,51.45,Forest Green,XS,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10064,VC-10064-J,V-J,Cropped Wool Jumper,Northfield,Womens > Knitwear > Jumpers,46.45,Forest Green,S,low_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10064,VC-10064-K,V-K,Cropped Wool Jumper,Northfield,Womens > Knitwear > Jumpers,54.45,Forest Green,M,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10064,VC-10064-L,V-L,Cropped Wool Jumper,Northfield,Womens > Knitwear > Jumpers,46.45,Forest Green,L,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10064,VC-10064-M,V-M,Cropped Wool Jumper,Northfield,Womens > Knitwear > Jumpers,51.45,Forest Green,XL,out_of_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10064,VC-10064-N,V-N,Cropped Wool Jumper,Northfield,Womens > Knitwear > Jumpers,54.45,Rust,XS,out_of_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10064,VC-10064-O,V-O,Cropped Wool Jumper,Northfield,Womens > Knitwear > Jumpers,47.45,Rust,S,out_of_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10064,VC-10064-P,V-P,Cropped Wool Jumper,Northfield,Womens > Knitwear > Jumpers,47.45,Rust,L,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10064,VC-10064-Q,V-Q,Cropped Wool Jumper,Northfield,Womens > Knitwear > Jumpers,49.45,Rust,XL,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10064,VC-10064-R,V-R,Cropped Wool Jumper,Northfield,Womens > Knitwear > Jumpers,47.45,Navy,XS,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10064,VC-10064-S,V-S,Cropped Wool Jumper,Northfield,Womens > Knitwear > Jumpers,49.45,Navy,S,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10064,VC-10064-T,V-T,Cropped Wool Jumper,Northfield,Womens > Knitwear > Jumpers,54.45,Navy,M,out_of_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10064,VC-10064-U,V-U,Cropped Wool Jumper,Northfield,Womens > Knitwear > Jumpers,51.45,Navy,L,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10065,VC-10065-A,V-A,Belted Shirt Dress,Modern Oat,Womens > Dresses > Midi,118.26,Black,6,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10065,VC-10065-B,V-B,Belted Shirt Dress,Modern Oat,Womens > Dresses > Midi,119.26,Black,8,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10065,VC-10065-C,V-C,Belted Shirt Dress,Modern Oat,Womens > Dresses > Midi,123.26,Black,10,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10065,VC-10065-D,V-D,Belted Shirt Dress,Modern Oat,Womens > Dresses > Midi,126.26,Black,12,low_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10065,VC-10065-E,V-E,Belted Shirt Dress,Modern Oat,Womens > Dresses > Midi,121.26,Black,14,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10065,VC-10065-F,V-F,Belted Shirt Dress,Modern Oat,Womens > Dresses > Midi,121.26,Terracotta,6,low_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10065,VC-10065-G,V-G,Belted Shirt Dress,Modern Oat,Womens > Dresses > Midi,126.26,Terracotta,10,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10065,VC-10065-H,V-H,Belted Shirt Dress,Modern Oat,Womens > Dresses > Midi,123.26,Terracotta,12,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10065,VC-10065-I,V-I,Belted Shirt Dress,Modern Oat,Womens > Dresses > Midi,121.26,Terracotta,14,low_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10065,VC-10065-J,V-J,Belted Shirt Dress,Modern Oat,Womens > Dresses > Midi,121.26,Olive,6,out_of_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10065,VC-10065-K,V-K,Belted Shirt Dress,Modern Oat,Womens > Dresses > Midi,123.26,Olive,10,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10065,VC-10065-L,V-L,Belted Shirt Dress,Modern Oat,Womens > Dresses > Midi,121.26,Olive,12,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10065,VC-10065-M,V-M,Belted Shirt Dress,Modern Oat,Womens > Dresses > Midi,126.26,Olive,14,out_of_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10065,VC-10065-N,V-N,Belted Shirt Dress,Modern Oat,Womens > Dresses > Midi,121.26,Navy,6,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10065,VC-10065-O,V-O,Belted Shirt Dress,Modern Oat,Womens > Dresses > Midi,121.26,Navy,8,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10065,VC-10065-P,V-P,Belted Shirt Dress,Modern Oat,Womens > Dresses > Midi,121.26,Navy,10,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10065,VC-10065-Q,V-Q,Belted Shirt Dress,Modern Oat,Womens > Dresses > Midi,121.26,Navy,12,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10065,VC-10065-R,V-R,Belted Shirt Dress,Modern Oat,Womens > Dresses > Midi,126.26,Navy,14,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10065,VC-10065-S,V-S,Belted Shirt Dress,Modern Oat,Womens > Dresses > Midi,126.26,Blush,8,low_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10065,VC-10065-T,V-T,Belted Shirt Dress,Modern Oat,Womens > Dresses > Midi,119.26,Blush,12,low_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10065,VC-10065-U,V-U,Belted Shirt Dress,Modern Oat,Womens > Dresses > Midi,121.26,Blush,14,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10066,VC-10066-A,V-A,Oxford Casual Shirt,Blackwood Supply,Mens > Shirts > Casual,79.83,White,S,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10066,VC-10066-B,V-B,Oxford Casual Shirt,Blackwood Supply,Mens > Shirts > Casual,77.83,White,L,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10066,VC-10066-C,V-C,Oxford Casual Shirt,Blackwood Supply,Mens > Shirts > Casual,77.83,White,XL,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10066,VC-10066-D,V-D,Oxford Casual Shirt,Blackwood Supply,Mens > Shirts > Casual,79.83,White,XXL,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10066,VC-10066-E,V-E,Oxford Casual Shirt,Blackwood Supply,Mens > Shirts > Casual,79.83,Sky Blue,M,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10066,VC-10066-F,V-F,Oxford Casual Shirt,Blackwood Supply,Mens > Shirts > Casual,74.83,Sky Blue,L,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10066,VC-10066-G,V-G,Oxford Casual Shirt,Blackwood Supply,Mens > Shirts > Casual,75.83,Sky Blue,XXL,out_of_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10066,VC-10066-H,V-H,Oxford Casual Shirt,Blackwood Supply,Mens > Shirts > Casual,79.83,Charcoal,S,low_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10066,VC-10066-I,V-I,Oxford Casual Shirt,Blackwood Supply,Mens > Shirts > Casual,82.83,Charcoal,L,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10066,VC-10066-J,V-J,Oxford Casual Shirt,Blackwood Supply,Mens > Shirts > Casual,77.83,Charcoal,XL,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10066,VC-10066-K,V-K,Oxford Casual Shirt,Blackwood Supply,Mens > Shirts > Casual,75.83,Charcoal,XXL,low_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10066,VC-10066-L,V-L,Oxford Casual Shirt,Blackwood Supply,Mens > Shirts > Casual,74.83,Olive,M,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10066,VC-10066-M,V-M,Oxford Casual Shirt,Blackwood Supply,Mens > Shirts > Casual,77.83,Olive,L,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10066,VC-10066-N,V-N,Oxford Casual Shirt,Blackwood Supply,Mens > Shirts > Casual,82.83,Olive,XL,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10066,VC-10066-O,V-O,Oxford Casual Shirt,Blackwood Supply,Mens > Shirts > Casual,79.83,Olive,XXL,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10067,VC-10067-A,V-A,Waxed Field Jacket,Blackwood Supply,Mens > Outerwear > Jackets,103.55,Black,S,in_stock,2026-09-18,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10067,VC-10067-B,V-B,Waxed Field Jacket,Blackwood Supply,Mens > Outerwear > Jackets,105.55,Black,M,in_stock,2026-09-18,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10067,VC-10067-C,V-C,Waxed Field Jacket,Blackwood Supply,Mens > Outerwear > Jackets,101.55,Black,L,low_stock,2026-09-18,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10067,VC-10067-D,V-D,Waxed Field Jacket,Blackwood Supply,Mens > Outerwear > Jackets,103.55,Black,XL,in_stock,2026-09-18,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10067,VC-10067-E,V-E,Waxed Field Jacket,Blackwood Supply,Mens > Outerwear > Jackets,103.55,Navy,L,low_stock,2026-09-18,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10067,VC-10067-F,V-F,Waxed Field Jacket,Blackwood Supply,Mens > Outerwear > Jackets,103.55,Navy,XL,in_stock,2026-09-18,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10067,VC-10067-G,V-G,Waxed Field Jacket,Blackwood Supply,Mens > Outerwear > Jackets,101.55,Stone,S,in_stock,2026-09-18,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10067,VC-10067-H,V-H,Waxed Field Jacket,Blackwood Supply,Mens > Outerwear > Jackets,101.55,Stone,M,out_of_stock,2026-09-18,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10067,VC-10067-I,V-I,Waxed Field Jacket,Blackwood Supply,Mens > Outerwear > Jackets,105.55,Stone,L,out_of_stock,2026-09-18,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10067,VC-10067-J,V-J,Waxed Field Jacket,Blackwood Supply,Mens > Outerwear > Jackets,105.55,Stone,XL,in_stock,2026-09-18,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10068,VC-10068-A,V-A,Canvas Weekend Bag,Northfield,Accessories > Bags,115.55,Olive,OS,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10068,VC-10068-B,V-B,Canvas Weekend Bag,Northfield,Accessories > Bags,115.55,Black,OS,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10068,VC-10068-C,V-C,Canvas Weekend Bag,Northfield,Accessories > Bags,115.55,Tan,OS,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10068,VC-10068-D,V-D,Canvas Weekend Bag,Northfield,Accessories > Bags,120.55,Rust,OS,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10069,VC-10069-A,V-A,Cashmere Blend Scarf,Trestle Co,Accessories > Scarves,31.36,Charcoal,OS,out_of_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10069,VC-10069-B,V-B,Cashmere Blend Scarf,Trestle Co,Accessories > Scarves,28.36,Burgundy,OS,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10070,VC-10070-A,V-A,Lace-Up Work Boot,Harlow & Vane,Footwear > Boots,174.05,Black,6,out_of_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10070,VC-10070-B,V-B,Lace-Up Work Boot,Harlow & Vane,Footwear > Boots,169.05,Black,7,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10070,VC-10070-C,V-C,Lace-Up Work Boot,Harlow & Vane,Footwear > Boots,174.05,Black,8,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10070,VC-10070-D,V-D,Lace-Up Work Boot,Harlow & Vane,Footwear > Boots,166.05,Black,11,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10070,VC-10070-E,V-E,Lace-Up Work Boot,Harlow & Vane,Footwear > Boots,169.05,Tan,6,out_of_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10070,VC-10070-F,V-F,Lace-Up Work Boot,Harlow & Vane,Footwear > Boots,171.05,Tan,7,out_of_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10070,VC-10070-G,V-G,Lace-Up Work Boot,Harlow & Vane,Footwear > Boots,169.05,Tan,8,low_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10070,VC-10070-H,V-H,Lace-Up Work Boot,Harlow & Vane,Footwear > Boots,169.05,Tan,10,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10070,VC-10070-I,V-I,Lace-Up Work Boot,Harlow & Vane,Footwear > Boots,169.05,Tan,11,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10070,VC-10070-J,V-J,Lace-Up Work Boot,Harlow & Vane,Footwear > Boots,167.05,Brown,6,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10070,VC-10070-K,V-K,Lace-Up Work Boot,Harlow & Vane,Footwear > Boots,169.05,Brown,7,out_of_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10070,VC-10070-L,V-L,Lace-Up Work Boot,Harlow & Vane,Footwear > Boots,174.05,Brown,8,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10070,VC-10070-M,V-M,Lace-Up Work Boot,Harlow & Vane,Footwear > Boots,169.05,Brown,9,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10071,VC-10071-A,V-A,Retro Runner,Northfield,Footwear > Sneakers,83.24,White,6,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10071,VC-10071-B,V-B,Retro Runner,Northfield,Footwear > Sneakers,85.24,White,7,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10071,VC-10071-C,V-C,Retro Runner,Northfield,Footwear > Sneakers,85.24,White,9,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10071,VC-10071-D,V-D,Retro Runner,Northfield,Footwear > Sneakers,83.24,White,11,out_of_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10071,VC-10071-E,V-E,Retro Runner,Northfield,Footwear > Sneakers,85.24,Black,6,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10071,VC-10071-F,V-F,Retro Runner,Northfield,Footwear > Sneakers,83.24,Black,9,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10071,VC-10071-G,V-G,Retro Runner,Northfield,Footwear > Sneakers,80.24,Black,10,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10071,VC-10071-H,V-H,Retro Runner,Northfield,Footwear > Sneakers,83.24,Black,11,out_of_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10071,VC-10071-I,V-I,Retro Runner,Northfield,Footwear > Sneakers,83.24,Grey,7,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10071,VC-10071-J,V-J,Retro Runner,Northfield,Footwear > Sneakers,83.24,Grey,8,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10071,VC-10071-K,V-K,Retro Runner,Northfield,Footwear > Sneakers,81.24,Grey,10,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10072,VC-10072-A,V-A,Ribbed Knit Jumper,Trestle Co,Womens > Knitwear > Jumpers,86.35,Charcoal,XS,in_stock,2026-09-15,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10072,VC-10072-B,V-B,Ribbed Knit Jumper,Trestle Co,Womens > Knitwear > Jumpers,84.35,Charcoal,S,in_stock,2026-09-15,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10072,VC-10072-C,V-C,Ribbed Knit Jumper,Trestle Co,Womens > Knitwear > Jumpers,82.35,Charcoal,L,in_stock,2026-09-15,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10072,VC-10072-D,V-D,Ribbed Knit Jumper,Trestle Co,Womens > Knitwear > Jumpers,84.35,Charcoal,XL,in_stock,2026-09-15,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10072,VC-10072-E,V-E,Ribbed Knit Jumper,Trestle Co,Womens > Knitwear > Jumpers,81.35,Cream,S,out_of_stock,2026-09-15,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10072,VC-10072-F,V-F,Ribbed Knit Jumper,Trestle Co,Womens > Knitwear > Jumpers,86.35,Cream,M,low_stock,2026-09-15,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10072,VC-10072-G,V-G,Ribbed Knit Jumper,Trestle Co,Womens > Knitwear > Jumpers,82.35,Cream,L,low_stock,2026-09-15,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10072,VC-10072-H,V-H,Ribbed Knit Jumper,Trestle Co,Womens > Knitwear > Jumpers,84.35,Cream,XL,in_stock,2026-09-15,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10072,VC-10072-I,V-I,Ribbed Knit Jumper,Trestle Co,Womens > Knitwear > Jumpers,84.35,Forest Green,XS,in_stock,2026-09-15,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10072,VC-10072-J,V-J,Ribbed Knit Jumper,Trestle Co,Womens > Knitwear > Jumpers,81.35,Forest Green,M,in_stock,2026-09-15,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10072,VC-10072-K,V-K,Ribbed Knit Jumper,Trestle Co,Womens > Knitwear > Jumpers,84.35,Forest Green,L,in_stock,2026-09-15,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10072,VC-10072-L,V-L,Ribbed Knit Jumper,Trestle Co,Womens > Knitwear > Jumpers,81.35,Forest Green,XL,low_stock,2026-09-15,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10072,VC-10072-M,V-M,Ribbed Knit Jumper,Trestle Co,Womens > Knitwear > Jumpers,89.35,Rust,XS,in_stock,2026-09-15,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10072,VC-10072-N,V-N,Ribbed Knit Jumper,Trestle Co,Womens > Knitwear > Jumpers,84.35,Rust,S,low_stock,2026-09-15,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10072,VC-10072-O,V-O,Ribbed Knit Jumper,Trestle Co,Womens > Knitwear > Jumpers,84.35,Rust,L,in_stock,2026-09-15,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10072,VC-10072-P,V-P,Ribbed Knit Jumper,Trestle Co,Womens > Knitwear > Jumpers,82.35,Rust,XL,low_stock,2026-09-15,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10072,VC-10072-Q,V-Q,Ribbed Knit Jumper,Trestle Co,Womens > Knitwear > Jumpers,84.35,Navy,XS,in_stock,2026-09-15,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10072,VC-10072-R,V-R,Ribbed Knit Jumper,Trestle Co,Womens > Knitwear > Jumpers,84.35,Navy,S,in_stock,2026-09-15,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10072,VC-10072-S,V-S,Ribbed Knit Jumper,Trestle Co,Womens > Knitwear > Jumpers,81.35,Navy,L,in_stock,2026-09-15,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10072,VC-10072-T,V-T,Ribbed Knit Jumper,Trestle Co,Womens > Knitwear > Jumpers,86.35,Navy,XL,in_stock,2026-09-15,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10073,VC-10073-A,V-A,Wrap Midi Dress,Northfield,Womens > Dresses > Midi,138.32,Black,6,low_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10073,VC-10073-B,V-B,Wrap Midi Dress,Northfield,Womens > Dresses > Midi,138.32,Black,8,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10073,VC-10073-C,V-C,Wrap Midi Dress,Northfield,Womens > Dresses > Midi,134.32,Black,12,low_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10073,VC-10073-D,V-D,Wrap Midi Dress,Northfield,Womens > Dresses > Midi,133.32,Black,14,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10073,VC-10073-E,V-E,Wrap Midi Dress,Northfield,Womens > Dresses > Midi,133.32,Terracotta,6,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10073,VC-10073-F,V-F,Wrap Midi Dress,Northfield,Womens > Dresses > Midi,141.32,Terracotta,8,out_of_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10073,VC-10073-G,V-G,Wrap Midi Dress,Northfield,Womens > Dresses > Midi,136.32,Terracotta,10,low_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10073,VC-10073-H,V-H,Wrap Midi Dress,Northfield,Womens > Dresses > Midi,133.32,Terracotta,12,out_of_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10073,VC-10073-I,V-I,Wrap Midi Dress,Northfield,Womens > Dresses > Midi,133.32,Olive,8,out_of_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10073,VC-10073-J,V-J,Wrap Midi Dress,Northfield,Womens > Dresses > Midi,136.32,Olive,10,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10073,VC-10073-K,V-K,Wrap Midi Dress,Northfield,Womens > Dresses > Midi,136.32,Olive,12,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10073,VC-10073-L,V-L,Wrap Midi Dress,Northfield,Womens > Dresses > Midi,136.32,Olive,14,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10073,VC-10073-M,V-M,Wrap Midi Dress,Northfield,Womens > Dresses > Midi,136.32,Navy,6,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10073,VC-10073-N,V-N,Wrap Midi Dress,Northfield,Womens > Dresses > Midi,141.32,Navy,10,out_of_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10073,VC-10073-O,V-O,Wrap Midi Dress,Northfield,Womens > Dresses > Midi,136.32,Blush,6,low_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10073,VC-10073-P,V-P,Wrap Midi Dress,Northfield,Womens > Dresses > Midi,141.32,Blush,10,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10073,VC-10073-Q,V-Q,Wrap Midi Dress,Northfield,Womens > Dresses > Midi,136.32,Blush,12,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10073,VC-10073-R,V-R,Wrap Midi Dress,Northfield,Womens > Dresses > Midi,133.32,Blush,14,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10074,VC-10074-A,V-A,Oxford Casual Shirt,Harlow & Vane,Mens > Shirts > Casual,72.5,White,S,out_of_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10074,VC-10074-B,V-B,Oxford Casual Shirt,Harlow & Vane,Mens > Shirts > Casual,70.5,White,L,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10074,VC-10074-C,V-C,Oxford Casual Shirt,Harlow & Vane,Mens > Shirts > Casual,70.5,White,XXL,low_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10074,VC-10074-D,V-D,Oxford Casual Shirt,Harlow & Vane,Mens > Shirts > Casual,72.5,Sky Blue,S,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10074,VC-10074-E,V-E,Oxford Casual Shirt,Harlow & Vane,Mens > Shirts > Casual,68.5,Sky Blue,M,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10074,VC-10074-F,V-F,Oxford Casual Shirt,Harlow & Vane,Mens > Shirts > Casual,75.5,Sky Blue,L,low_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10074,VC-10074-G,V-G,Oxford Casual Shirt,Harlow & Vane,Mens > Shirts > Casual,70.5,Sky Blue,XL,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10074,VC-10074-H,V-H,Oxford Casual Shirt,Harlow & Vane,Mens > Shirts > Casual,67.5,Charcoal,M,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10074,VC-10074-I,V-I,Oxford Casual Shirt,Harlow & Vane,Mens > Shirts > Casual,68.5,Charcoal,XL,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10074,VC-10074-J,V-J,Oxford Casual Shirt,Harlow & Vane,Mens > Shirts > Casual,72.5,Olive,S,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10074,VC-10074-K,V-K,Oxford Casual Shirt,Harlow & Vane,Mens > Shirts > Casual,70.5,Olive,M,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10074,VC-10074-L,V-L,Oxford Casual Shirt,Harlow & Vane,Mens > Shirts > Casual,70.5,Olive,XXL,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10075,VC-10075-A,V-A,Waxed Field Jacket,Modern Oat,Mens > Outerwear > Jackets,111.5,Black,S,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10075,VC-10075-B,V-B,Waxed Field Jacket,Modern Oat,Mens > Outerwear > Jackets,103.5,Black,L,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10075,VC-10075-C,V-C,Waxed Field Jacket,Modern Oat,Mens > Outerwear > Jackets,106.5,Black,XL,low_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10075,VC-10075-D,V-D,Waxed Field Jacket,Modern Oat,Mens > Outerwear > Jackets,106.5,Navy,S,low_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10075,VC-10075-E,V-E,Waxed Field Jacket,Modern Oat,Mens > Outerwear > Jackets,104.5,Navy,L,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10075,VC-10075-F,V-F,Waxed Field Jacket,Modern Oat,Mens > Outerwear > Jackets,104.5,Navy,XL,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10075,VC-10075-G,V-G,Waxed Field Jacket,Modern Oat,Mens > Outerwear > Jackets,106.5,Stone,S,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10075,VC-10075-H,V-H,Waxed Field Jacket,Modern Oat,Mens > Outerwear > Jackets,106.5,Stone,M,low_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10075,VC-10075-I,V-I,Waxed Field Jacket,Modern Oat,Mens > Outerwear > Jackets,106.5,Stone,L,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10076,VC-10076-A,V-A,Canvas Weekend Bag,Northfield,Accessories > Bags,73.39,Olive,OS,out_of_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10076,VC-10076-B,V-B,Canvas Weekend Bag,Northfield,Accessories > Bags,76.39,Black,OS,out_of_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10076,VC-10076-C,V-C,Canvas Weekend Bag,Northfield,Accessories > Bags,71.39,Tan,OS,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10076,VC-10076-D,V-D,Canvas Weekend Bag,Northfield,Accessories > Bags,76.39,Rust,OS,low_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10077,VC-10077-A,V-A,Cashmere Blend Scarf,Modern Oat,Accessories > Scarves,27.29,Charcoal,OS,low_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10077,VC-10077-B,V-B,Cashmere Blend Scarf,Modern Oat,Accessories > Scarves,24.29,Camel,OS,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10077,VC-10077-C,V-C,Cashmere Blend Scarf,Modern Oat,Accessories > Scarves,24.29,Burgundy,OS,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10078,VC-10078-A,V-A,Lace-Up Work Boot,Modern Oat,Footwear > Boots,90.27,Black,6,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10078,VC-10078-B,V-B,Lace-Up Work Boot,Modern Oat,Footwear > Boots,88.27,Black,7,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10078,VC-10078-C,V-C,Lace-Up Work Boot,Modern Oat,Footwear > Boots,90.27,Black,9,out_of_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10078,VC-10078-D,V-D,Lace-Up Work Boot,Modern Oat,Footwear > Boots,92.27,Black,10,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10078,VC-10078-E,V-E,Lace-Up Work Boot,Modern Oat,Footwear > Boots,88.27,Black,11,out_of_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10078,VC-10078-F,V-F,Lace-Up Work Boot,Modern Oat,Footwear > Boots,95.27,Tan,6,low_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10078,VC-10078-G,V-G,Lace-Up Work Boot,Modern Oat,Footwear > Boots,95.27,Tan,7,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10078,VC-10078-H,V-H,Lace-Up Work Boot,Modern Oat,Footwear > Boots,95.27,Tan,9,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10078,VC-10078-I,V-I,Lace-Up Work Boot,Modern Oat,Footwear > Boots,87.27,Tan,10,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10078,VC-10078-J,V-J,Lace-Up Work Boot,Modern Oat,Footwear > Boots,90.27,Tan,11,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10078,VC-10078-K,V-K,Lace-Up Work Boot,Modern Oat,Footwear > Boots,88.27,Brown,6,low_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10078,VC-10078-L,V-L,Lace-Up Work Boot,Modern Oat,Footwear > Boots,88.27,Brown,7,low_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10078,VC-10078-M,V-M,Lace-Up Work Boot,Modern Oat,Footwear > Boots,87.27,Brown,10,out_of_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10078,VC-10078-N,V-N,Lace-Up Work Boot,Modern Oat,Footwear > Boots,90.27,Brown,11,out_of_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10079,VC-10079-A,V-A,Retro Runner,Blackwood Supply,Footwear > Sneakers,70.1,White,6,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10079,VC-10079-B,V-B,Retro Runner,Blackwood Supply,Footwear > Sneakers,73.1,White,7,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10079,VC-10079-C,V-C,Retro Runner,Blackwood Supply,Footwear > Sneakers,66.1,White,10,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10079,VC-10079-D,V-D,Retro Runner,Blackwood Supply,Footwear > Sneakers,73.1,White,11,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10079,VC-10079-E,V-E,Retro Runner,Blackwood Supply,Footwear > Sneakers,68.1,Black,6,low_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10079,VC-10079-F,V-F,Retro Runner,Blackwood Supply,Footwear > Sneakers,68.1,Black,7,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10079,VC-10079-G,V-G,Retro Runner,Blackwood Supply,Footwear > Sneakers,66.1,Black,8,low_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10079,VC-10079-H,V-H,Retro Runner,Blackwood Supply,Footwear > Sneakers,68.1,Black,9,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10079,VC-10079-I,V-I,Retro Runner,Blackwood Supply,Footwear > Sneakers,70.1,Black,11,out_of_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10079,VC-10079-J,V-J,Retro Runner,Blackwood Supply,Footwear > Sneakers,66.1,Grey,6,out_of_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10079,VC-10079-K,V-K,Retro Runner,Blackwood Supply,Footwear > Sneakers,68.1,Grey,7,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10079,VC-10079-L,V-L,Retro Runner,Blackwood Supply,Footwear > Sneakers,68.1,Grey,8,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10079,VC-10079-M,V-M,Retro Runner,Blackwood Supply,Footwear > Sneakers,68.1,Grey,11,low_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10080,VC-10080-A,V-A,Ribbed Knit Jumper,Cedarcross,Womens > Knitwear > Jumpers,87.99,Charcoal,XS,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10080,VC-10080-B,V-B,Ribbed Knit Jumper,Cedarcross,Womens > Knitwear > Jumpers,92.99,Charcoal,M,out_of_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10080,VC-10080-C,V-C,Ribbed Knit Jumper,Cedarcross,Womens > Knitwear > Jumpers,87.99,Charcoal,L,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10080,VC-10080-D,V-D,Ribbed Knit Jumper,Cedarcross,Womens > Knitwear > Jumpers,85.99,Charcoal,XL,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10080,VC-10080-E,V-E,Ribbed Knit Jumper,Cedarcross,Womens > Knitwear > Jumpers,85.99,Cream,XS,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10080,VC-10080-F,V-F,Ribbed Knit Jumper,Cedarcross,Womens > Knitwear > Jumpers,85.99,Cream,S,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10080,VC-10080-G,V-G,Ribbed Knit Jumper,Cedarcross,Womens > Knitwear > Jumpers,89.99,Cream,M,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10080,VC-10080-H,V-H,Ribbed Knit Jumper,Cedarcross,Womens > Knitwear > Jumpers,87.99,Cream,L,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10080,VC-10080-I,V-I,Ribbed Knit Jumper,Cedarcross,Womens > Knitwear > Jumpers,84.99,Cream,XL,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10080,VC-10080-J,V-J,Ribbed Knit Jumper,Cedarcross,Womens > Knitwear > Jumpers,84.99,Forest Green,XS,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10080,VC-10080-K,V-K,Ribbed Knit Jumper,Cedarcross,Womens > Knitwear > Jumpers,87.99,Forest Green,M,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10080,VC-10080-L,V-L,Ribbed Knit Jumper,Cedarcross,Womens > Knitwear > Jumpers,87.99,Forest Green,L,low_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10080,VC-10080-M,V-M,Ribbed Knit Jumper,Cedarcross,Womens > Knitwear > Jumpers,87.99,Forest Green,XL,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10080,VC-10080-N,V-N,Ribbed Knit Jumper,Cedarcross,Womens > Knitwear > Jumpers,92.99,Rust,XS,out_of_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10080,VC-10080-O,V-O,Ribbed Knit Jumper,Cedarcross,Womens > Knitwear > Jumpers,89.99,Rust,S,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10080,VC-10080-P,V-P,Ribbed Knit Jumper,Cedarcross,Womens > Knitwear > Jumpers,87.99,Rust,XL,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10080,VC-10080-Q,V-Q,Ribbed Knit Jumper,Cedarcross,Womens > Knitwear > Jumpers,84.99,Navy,XS,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10080,VC-10080-R,V-R,Ribbed Knit Jumper,Cedarcross,Womens > Knitwear > Jumpers,87.99,Navy,S,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10080,VC-10080-S,V-S,Ribbed Knit Jumper,Cedarcross,Womens > Knitwear > Jumpers,87.99,Navy,M,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10080,VC-10080-T,V-T,Ribbed Knit Jumper,Cedarcross,Womens > Knitwear > Jumpers,87.99,Navy,L,low_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10080,VC-10080-U,V-U,Ribbed Knit Jumper,Cedarcross,Womens > Knitwear > Jumpers,87.99,Navy,XL,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10081,VC-10081-A,V-A,Fluted Midi Dress,Trestle Co,Womens > Dresses > Midi,107.55,Black,6,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10081,VC-10081-B,V-B,Fluted Midi Dress,Trestle Co,Womens > Dresses > Midi,108.55,Black,8,low_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10081,VC-10081-C,V-C,Fluted Midi Dress,Trestle Co,Womens > Dresses > Midi,112.55,Black,10,out_of_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10081,VC-10081-D,V-D,Fluted Midi Dress,Trestle Co,Womens > Dresses > Midi,110.55,Black,12,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10081,VC-10081-E,V-E,Fluted Midi Dress,Trestle Co,Womens > Dresses > Midi,107.55,Black,14,low_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10081,VC-10081-F,V-F,Fluted Midi Dress,Trestle Co,Womens > Dresses > Midi,115.55,Terracotta,6,low_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10081,VC-10081-G,V-G,Fluted Midi Dress,Trestle Co,Womens > Dresses > Midi,110.55,Terracotta,10,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10081,VC-10081-H,V-H,Fluted Midi Dress,Trestle Co,Womens > Dresses > Midi,112.55,Terracotta,12,out_of_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10081,VC-10081-I,V-I,Fluted Midi Dress,Trestle Co,Womens > Dresses > Midi,107.55,Terracotta,14,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10081,VC-10081-J,V-J,Fluted Midi Dress,Trestle Co,Womens > Dresses > Midi,112.55,Olive,6,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10081,VC-10081-K,V-K,Fluted Midi Dress,Trestle Co,Womens > Dresses > Midi,110.55,Olive,8,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10081,VC-10081-L,V-L,Fluted Midi Dress,Trestle Co,Womens > Dresses > Midi,110.55,Olive,10,low_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10081,VC-10081-M,V-M,Fluted Midi Dress,Trestle Co,Womens > Dresses > Midi,112.55,Olive,12,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10081,VC-10081-N,V-N,Fluted Midi Dress,Trestle Co,Womens > Dresses > Midi,108.55,Navy,6,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10081,VC-10081-O,V-O,Fluted Midi Dress,Trestle Co,Womens > Dresses > Midi,110.55,Navy,8,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10081,VC-10081-P,V-P,Fluted Midi Dress,Trestle Co,Womens > Dresses > Midi,110.55,Navy,10,low_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10081,VC-10081-Q,V-Q,Fluted Midi Dress,Trestle Co,Womens > Dresses > Midi,108.55,Navy,12,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10081,VC-10081-R,V-R,Fluted Midi Dress,Trestle Co,Womens > Dresses > Midi,108.55,Navy,14,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10081,VC-10081-S,V-S,Fluted Midi Dress,Trestle Co,Womens > Dresses > Midi,110.55,Blush,8,low_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10081,VC-10081-T,V-T,Fluted Midi Dress,Trestle Co,Womens > Dresses > Midi,110.55,Blush,10,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10081,VC-10081-U,V-U,Fluted Midi Dress,Trestle Co,Womens > Dresses > Midi,115.55,Blush,12,low_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10081,VC-10081-V,V-V,Fluted Midi Dress,Trestle Co,Womens > Dresses > Midi,110.55,Blush,14,out_of_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10082,VC-10082-A,V-A,Brushed Cotton Shirt,Blackwood Supply,Mens > Shirts > Casual,65.8,White,S,in_stock,2026-09-14,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10082,VC-10082-B,V-B,Brushed Cotton Shirt,Blackwood Supply,Mens > Shirts > Casual,62.8,White,M,low_stock,2026-09-14,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10082,VC-10082-C,V-C,Brushed Cotton Shirt,Blackwood Supply,Mens > Shirts > Casual,67.8,White,L,in_stock,2026-09-14,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10082,VC-10082-D,V-D,Brushed Cotton Shirt,Blackwood Supply,Mens > Shirts > Casual,65.8,White,XL,out_of_stock,2026-09-14,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10082,VC-10082-E,V-E,Brushed Cotton Shirt,Blackwood Supply,Mens > Shirts > Casual,65.8,White,XXL,in_stock,2026-09-14,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10082,VC-10082-F,V-F,Brushed Cotton Shirt,Blackwood Supply,Mens > Shirts > Casual,63.8,Sky Blue,M,in_stock,2026-09-14,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10082,VC-10082-G,V-G,Brushed Cotton Shirt,Blackwood Supply,Mens > Shirts > Casual,70.8,Sky Blue,L,in_stock,2026-09-14,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10082,VC-10082-H,V-H,Brushed Cotton Shirt,Blackwood Supply,Mens > Shirts > Casual,67.8,Sky Blue,XXL,low_stock,2026-09-14,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10082,VC-10082-I,V-I,Brushed Cotton Shirt,Blackwood Supply,Mens > Shirts > Casual,70.8,Charcoal,S,in_stock,2026-09-14,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10082,VC-10082-J,V-J,Brushed Cotton Shirt,Blackwood Supply,Mens > Shirts > Casual,65.8,Charcoal,M,in_stock,2026-09-14,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10082,VC-10082-K,V-K,Brushed Cotton Shirt,Blackwood Supply,Mens > Shirts > Casual,70.8,Charcoal,L,in_stock,2026-09-14,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10082,VC-10082-L,V-L,Brushed Cotton Shirt,Blackwood Supply,Mens > Shirts > Casual,65.8,Charcoal,XXL,in_stock,2026-09-14,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10082,VC-10082-M,V-M,Brushed Cotton Shirt,Blackwood Supply,Mens > Shirts > Casual,65.8,Olive,S,low_stock,2026-09-14,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10082,VC-10082-N,V-N,Brushed Cotton Shirt,Blackwood Supply,Mens > Shirts > Casual,62.8,Olive,M,out_of_stock,2026-09-14,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10082,VC-10082-O,V-O,Brushed Cotton Shirt,Blackwood Supply,Mens > Shirts > Casual,70.8,Olive,L,low_stock,2026-09-14,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10083,VC-10083-A,V-A,Wool Overcoat,Modern Oat,Mens > Outerwear > Jackets,162.82,Black,S,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10083,VC-10083-B,V-B,Wool Overcoat,Modern Oat,Mens > Outerwear > Jackets,162.82,Black,M,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10083,VC-10083-C,V-C,Wool Overcoat,Modern Oat,Mens > Outerwear > Jackets,165.82,Black,L,low_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10083,VC-10083-D,V-D,Wool Overcoat,Modern Oat,Mens > Outerwear > Jackets,167.82,Black,XL,low_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10083,VC-10083-E,V-E,Wool Overcoat,Modern Oat,Mens > Outerwear > Jackets,165.82,Navy,S,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10083,VC-10083-F,V-F,Wool Overcoat,Modern Oat,Mens > Outerwear > Jackets,165.82,Navy,L,out_of_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10083,VC-10083-G,V-G,Wool Overcoat,Modern Oat,Mens > Outerwear > Jackets,165.82,Navy,XL,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10083,VC-10083-H,V-H,Wool Overcoat,Modern Oat,Mens > Outerwear > Jackets,165.82,Stone,S,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10083,VC-10083-I,V-I,Wool Overcoat,Modern Oat,Mens > Outerwear > Jackets,165.82,Stone,L,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10084,VC-10084-A,V-A,Canvas Weekend Bag,Trestle Co,Accessories > Bags,112.65,Olive,OS,low_stock,2026-09-15,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10084,VC-10084-B,V-B,Canvas Weekend Bag,Trestle Co,Accessories > Bags,114.65,Black,OS,in_stock,2026-09-15,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10084,VC-10084-C,V-C,Canvas Weekend Bag,Trestle Co,Accessories > Bags,110.65,Tan,OS,in_stock,2026-09-15,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10084,VC-10084-D,V-D,Canvas Weekend Bag,Trestle Co,Accessories > Bags,114.65,Rust,OS,low_stock,2026-09-15,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10085,VC-10085-A,V-A,Wool Scarf,Northfield,Accessories > Scarves,40.9,Charcoal,OS,low_stock,2026-09-22,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10085,VC-10085-B,V-B,Wool Scarf,Northfield,Accessories > Scarves,35.9,Camel,OS,in_stock,2026-09-22,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10085,VC-10085-C,V-C,Wool Scarf,Northfield,Accessories > Scarves,43.9,Burgundy,OS,low_stock,2026-09-22,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10086,VC-10086-A,V-A,Chelsea Boot,Blackwood Supply,Footwear > Boots,156.69,Black,6,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10086,VC-10086-B,V-B,Chelsea Boot,Blackwood Supply,Footwear > Boots,151.69,Black,7,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10086,VC-10086-C,V-C,Chelsea Boot,Blackwood Supply,Footwear > Boots,151.69,Black,9,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10086,VC-10086-D,V-D,Chelsea Boot,Blackwood Supply,Footwear > Boots,151.69,Black,10,out_of_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10086,VC-10086-E,V-E,Chelsea Boot,Blackwood Supply,Footwear > Boots,156.69,Tan,7,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10086,VC-10086-F,V-F,Chelsea Boot,Blackwood Supply,Footwear > Boots,151.69,Tan,8,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10086,VC-10086-G,V-G,Chelsea Boot,Blackwood Supply,Footwear > Boots,153.69,Tan,9,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10086,VC-10086-H,V-H,Chelsea Boot,Blackwood Supply,Footwear > Boots,156.69,Tan,10,low_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10086,VC-10086-I,V-I,Chelsea Boot,Blackwood Supply,Footwear > Boots,153.69,Tan,11,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10086,VC-10086-J,V-J,Chelsea Boot,Blackwood Supply,Footwear > Boots,149.69,Brown,6,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10086,VC-10086-K,V-K,Chelsea Boot,Blackwood Supply,Footwear > Boots,151.69,Brown,7,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10086,VC-10086-L,V-L,Chelsea Boot,Blackwood Supply,Footwear > Boots,151.69,Brown,8,out_of_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10086,VC-10086-M,V-M,Chelsea Boot,Blackwood Supply,Footwear > Boots,151.69,Brown,9,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10086,VC-10086-N,V-N,Chelsea Boot,Blackwood Supply,Footwear > Boots,151.69,Brown,10,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10086,VC-10086-O,V-O,Chelsea Boot,Blackwood Supply,Footwear > Boots,151.69,Brown,11,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10087,VC-10087-A,V-A,Court Sneaker,Trestle Co,Footwear > Sneakers,63.59,White,6,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10087,VC-10087-B,V-B,Court Sneaker,Trestle Co,Footwear > Sneakers,67.59,White,7,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10087,VC-10087-C,V-C,Court Sneaker,Trestle Co,Footwear > Sneakers,65.59,White,8,out_of_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10087,VC-10087-D,V-D,Court Sneaker,Trestle Co,Footwear > Sneakers,70.59,White,10,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10087,VC-10087-E,V-E,Court Sneaker,Trestle Co,Footwear > Sneakers,63.59,White,11,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10087,VC-10087-F,V-F,Court Sneaker,Trestle Co,Footwear > Sneakers,62.59,Black,6,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10087,VC-10087-G,V-G,Court Sneaker,Trestle Co,Footwear > Sneakers,70.59,Black,7,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10087,VC-10087-H,V-H,Court Sneaker,Trestle Co,Footwear > Sneakers,67.59,Black,8,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10087,VC-10087-I,V-I,Court Sneaker,Trestle Co,Footwear > Sneakers,65.59,Black,9,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10087,VC-10087-J,V-J,Court Sneaker,Trestle Co,Footwear > Sneakers,63.59,Black,10,low_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10087,VC-10087-K,V-K,Court Sneaker,Trestle Co,Footwear > Sneakers,65.59,Black,11,out_of_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10087,VC-10087-L,V-L,Court Sneaker,Trestle Co,Footwear > Sneakers,62.59,Grey,6,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10087,VC-10087-M,V-M,Court Sneaker,Trestle Co,Footwear > Sneakers,67.59,Grey,7,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10087,VC-10087-N,V-N,Court Sneaker,Trestle Co,Footwear > Sneakers,65.59,Grey,8,out_of_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10087,VC-10087-O,V-O,Court Sneaker,Trestle Co,Footwear > Sneakers,67.59,Grey,9,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10087,VC-10087-P,V-P,Court Sneaker,Trestle Co,Footwear > Sneakers,65.59,Grey,10,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10087,VC-10087-Q,V-Q,Court Sneaker,Trestle Co,Footwear > Sneakers,70.59,Grey,11,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10088,VC-10088-A,V-A,Cropped Wool Jumper,Northfield,Womens > Knitwear > Jumpers,62.27,Charcoal,XS,in_stock,2026-09-13,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10088,VC-10088-B,V-B,Cropped Wool Jumper,Northfield,Womens > Knitwear > Jumpers,58.27,Charcoal,M,in_stock,2026-09-13,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10088,VC-10088-C,V-C,Cropped Wool Jumper,Northfield,Womens > Knitwear > Jumpers,65.27,Charcoal,L,out_of_stock,2026-09-13,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10088,VC-10088-D,V-D,Cropped Wool Jumper,Northfield,Womens > Knitwear > Jumpers,60.27,Charcoal,XL,in_stock,2026-09-13,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10088,VC-10088-E,V-E,Cropped Wool Jumper,Northfield,Womens > Knitwear > Jumpers,62.27,Cream,XS,low_stock,2026-09-13,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10088,VC-10088-F,V-F,Cropped Wool Jumper,Northfield,Womens > Knitwear > Jumpers,60.27,Cream,S,low_stock,2026-09-13,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10088,VC-10088-G,V-G,Cropped Wool Jumper,Northfield,Womens > Knitwear > Jumpers,62.27,Cream,M,in_stock,2026-09-13,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10088,VC-10088-H,V-H,Cropped Wool Jumper,Northfield,Womens > Knitwear > Jumpers,60.27,Cream,L,in_stock,2026-09-13,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10088,VC-10088-I,V-I,Cropped Wool Jumper,Northfield,Womens > Knitwear > Jumpers,62.27,Cream,XL,in_stock,2026-09-13,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10088,VC-10088-J,V-J,Cropped Wool Jumper,Northfield,Womens > Knitwear > Jumpers,62.27,Forest Green,XS,low_stock,2026-09-13,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10088,VC-10088-K,V-K,Cropped Wool Jumper,Northfield,Womens > Knitwear > Jumpers,62.27,Forest Green,S,in_stock,2026-09-13,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10088,VC-10088-L,V-L,Cropped Wool Jumper,Northfield,Womens > Knitwear > Jumpers,65.27,Forest Green,M,in_stock,2026-09-13,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10088,VC-10088-M,V-M,Cropped Wool Jumper,Northfield,Womens > Knitwear > Jumpers,60.27,Forest Green,L,in_stock,2026-09-13,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10088,VC-10088-N,V-N,Cropped Wool Jumper,Northfield,Womens > Knitwear > Jumpers,60.27,Forest Green,XL,in_stock,2026-09-13,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10088,VC-10088-O,V-O,Cropped Wool Jumper,Northfield,Womens > Knitwear > Jumpers,62.27,Rust,XS,out_of_stock,2026-09-13,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10088,VC-10088-P,V-P,Cropped Wool Jumper,Northfield,Womens > Knitwear > Jumpers,58.27,Rust,S,in_stock,2026-09-13,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10088,VC-10088-Q,V-Q,Cropped Wool Jumper,Northfield,Womens > Knitwear > Jumpers,58.27,Rust,M,in_stock,2026-09-13,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10088,VC-10088-R,V-R,Cropped Wool Jumper,Northfield,Womens > Knitwear > Jumpers,65.27,Rust,L,in_stock,2026-09-13,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10088,VC-10088-S,V-S,Cropped Wool Jumper,Northfield,Womens > Knitwear > Jumpers,60.27,Rust,XL,in_stock,2026-09-13,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10088,VC-10088-T,V-T,Cropped Wool Jumper,Northfield,Womens > Knitwear > Jumpers,60.27,Navy,XS,low_stock,2026-09-13,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10088,VC-10088-U,V-U,Cropped Wool Jumper,Northfield,Womens > Knitwear > Jumpers,60.27,Navy,S,in_stock,2026-09-13,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10088,VC-10088-V,V-V,Cropped Wool Jumper,Northfield,Womens > Knitwear > Jumpers,60.27,Navy,M,out_of_stock,2026-09-13,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10088,VC-10088-W,V-W,Cropped Wool Jumper,Northfield,Womens > Knitwear > Jumpers,57.27,Navy,L,low_stock,2026-09-13,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10088,VC-10088-X,V-X,Cropped Wool Jumper,Northfield,Womens > Knitwear > Jumpers,60.27,Navy,XL,in_stock,2026-09-13,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10089,VC-10089-A,V-A,Fluted Midi Dress,Trestle Co,Womens > Dresses > Midi,130.06,Black,6,low_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10089,VC-10089-B,V-B,Fluted Midi Dress,Trestle Co,Womens > Dresses > Midi,128.06,Black,10,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10089,VC-10089-C,V-C,Fluted Midi Dress,Trestle Co,Womens > Dresses > Midi,130.06,Black,12,low_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10089,VC-10089-D,V-D,Fluted Midi Dress,Trestle Co,Womens > Dresses > Midi,128.06,Terracotta,6,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10089,VC-10089-E,V-E,Fluted Midi Dress,Trestle Co,Womens > Dresses > Midi,132.06,Terracotta,8,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10089,VC-10089-F,V-F,Fluted Midi Dress,Trestle Co,Womens > Dresses > Midi,127.06,Terracotta,10,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10089,VC-10089-G,V-G,Fluted Midi Dress,Trestle Co,Womens > Dresses > Midi,128.06,Terracotta,12,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10089,VC-10089-H,V-H,Fluted Midi Dress,Trestle Co,Womens > Dresses > Midi,128.06,Terracotta,14,low_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10089,VC-10089-I,V-I,Fluted Midi Dress,Trestle Co,Womens > Dresses > Midi,135.06,Olive,6,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10089,VC-10089-J,V-J,Fluted Midi Dress,Trestle Co,Womens > Dresses > Midi,130.06,Olive,10,low_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10089,VC-10089-K,V-K,Fluted Midi Dress,Trestle Co,Womens > Dresses > Midi,130.06,Olive,12,low_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10089,VC-10089-L,V-L,Fluted Midi Dress,Trestle Co,Womens > Dresses > Midi,132.06,Navy,6,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10089,VC-10089-M,V-M,Fluted Midi Dress,Trestle Co,Womens > Dresses > Midi,130.06,Navy,8,out_of_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10089,VC-10089-N,V-N,Fluted Midi Dress,Trestle Co,Womens > Dresses > Midi,132.06,Navy,12,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10089,VC-10089-O,V-O,Fluted Midi Dress,Trestle Co,Womens > Dresses > Midi,130.06,Navy,14,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10089,VC-10089-P,V-P,Fluted Midi Dress,Trestle Co,Womens > Dresses > Midi,130.06,Blush,8,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10089,VC-10089-Q,V-Q,Fluted Midi Dress,Trestle Co,Womens > Dresses > Midi,130.06,Blush,12,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10089,VC-10089-R,V-R,Fluted Midi Dress,Trestle Co,Womens > Dresses > Midi,130.06,Blush,14,out_of_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10090,VC-10090-A,V-A,Oxford Casual Shirt,Cedarcross,Mens > Shirts > Casual,61.44,White,S,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10090,VC-10090-B,V-B,Oxford Casual Shirt,Cedarcross,Mens > Shirts > Casual,59.44,White,M,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10090,VC-10090-C,V-C,Oxford Casual Shirt,Cedarcross,Mens > Shirts > Casual,57.44,White,L,low_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10090,VC-10090-D,V-D,Oxford Casual Shirt,Cedarcross,Mens > Shirts > Casual,57.44,White,XXL,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10090,VC-10090-E,V-E,Oxford Casual Shirt,Cedarcross,Mens > Shirts > Casual,59.44,Sky Blue,S,out_of_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10090,VC-10090-F,V-F,Oxford Casual Shirt,Cedarcross,Mens > Shirts > Casual,61.44,Sky Blue,L,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10090,VC-10090-G,V-G,Oxford Casual Shirt,Cedarcross,Mens > Shirts > Casual,61.44,Sky Blue,XL,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10090,VC-10090-H,V-H,Oxford Casual Shirt,Cedarcross,Mens > Shirts > Casual,59.44,Sky Blue,XXL,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10090,VC-10090-I,V-I,Oxford Casual Shirt,Cedarcross,Mens > Shirts > Casual,56.44,Charcoal,S,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10090,VC-10090-J,V-J,Oxford Casual Shirt,Cedarcross,Mens > Shirts > Casual,56.44,Charcoal,M,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10090,VC-10090-K,V-K,Oxford Casual Shirt,Cedarcross,Mens > Shirts > Casual,59.44,Charcoal,L,low_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10090,VC-10090-L,V-L,Oxford Casual Shirt,Cedarcross,Mens > Shirts > Casual,59.44,Charcoal,XL,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10090,VC-10090-M,V-M,Oxford Casual Shirt,Cedarcross,Mens > Shirts > Casual,57.44,Charcoal,XXL,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10090,VC-10090-N,V-N,Oxford Casual Shirt,Cedarcross,Mens > Shirts > Casual,61.44,Olive,S,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10090,VC-10090-O,V-O,Oxford Casual Shirt,Cedarcross,Mens > Shirts > Casual,61.44,Olive,M,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10090,VC-10090-P,V-P,Oxford Casual Shirt,Cedarcross,Mens > Shirts > Casual,59.44,Olive,L,out_of_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10090,VC-10090-Q,V-Q,Oxford Casual Shirt,Cedarcross,Mens > Shirts > Casual,57.44,Olive,XL,low_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10090,VC-10090-R,V-R,Oxford Casual Shirt,Cedarcross,Mens > Shirts > Casual,56.44,Olive,XXL,out_of_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10091,VC-10091-A,V-A,Waxed Field Jacket,Cedarcross,Mens > Outerwear > Jackets,181.85,Black,S,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10091,VC-10091-B,V-B,Waxed Field Jacket,Cedarcross,Mens > Outerwear > Jackets,184.85,Black,M,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10091,VC-10091-C,V-C,Waxed Field Jacket,Cedarcross,Mens > Outerwear > Jackets,189.85,Black,L,out_of_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10091,VC-10091-D,V-D,Waxed Field Jacket,Cedarcross,Mens > Outerwear > Jackets,184.85,Black,XL,low_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10091,VC-10091-E,V-E,Waxed Field Jacket,Cedarcross,Mens > Outerwear > Jackets,181.85,Navy,S,out_of_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10091,VC-10091-F,V-F,Waxed Field Jacket,Cedarcross,Mens > Outerwear > Jackets,182.85,Navy,M,low_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10091,VC-10091-G,V-G,Waxed Field Jacket,Cedarcross,Mens > Outerwear > Jackets,181.85,Navy,L,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10091,VC-10091-H,V-H,Waxed Field Jacket,Cedarcross,Mens > Outerwear > Jackets,181.85,Navy,XL,out_of_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10091,VC-10091-I,V-I,Waxed Field Jacket,Cedarcross,Mens > Outerwear > Jackets,182.85,Stone,S,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10091,VC-10091-J,V-J,Waxed Field Jacket,Cedarcross,Mens > Outerwear > Jackets,181.85,Stone,M,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10091,VC-10091-K,V-K,Waxed Field Jacket,Cedarcross,Mens > Outerwear > Jackets,186.85,Stone,L,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10091,VC-10091-L,V-L,Waxed Field Jacket,Cedarcross,Mens > Outerwear > Jackets,184.85,Stone,XL,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10092,VC-10092-A,V-A,Crossbody Satchel,Harlow & Vane,Accessories > Bags,77.11,Olive,OS,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10092,VC-10092-B,V-B,Crossbody Satchel,Harlow & Vane,Accessories > Bags,79.11,Black,OS,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10092,VC-10092-C,V-C,Crossbody Satchel,Harlow & Vane,Accessories > Bags,76.11,Tan,OS,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10092,VC-10092-D,V-D,Crossbody Satchel,Harlow & Vane,Accessories > Bags,76.11,Rust,OS,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10093,VC-10093-A,V-A,Cashmere Blend Scarf,Modern Oat,Accessories > Scarves,39.0,Charcoal,OS,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10093,VC-10093-B,V-B,Cashmere Blend Scarf,Modern Oat,Accessories > Scarves,41.0,Camel,OS,out_of_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10093,VC-10093-C,V-C,Cashmere Blend Scarf,Modern Oat,Accessories > Scarves,43.0,Burgundy,OS,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10094,VC-10094-A,V-A,Chelsea Boot,Northfield,Footwear > Boots,115.54,Black,6,low_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10094,VC-10094-B,V-B,Chelsea Boot,Northfield,Footwear > Boots,118.54,Black,7,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10094,VC-10094-C,V-C,Chelsea Boot,Northfield,Footwear > Boots,120.54,Black,8,low_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10094,VC-10094-D,V-D,Chelsea Boot,Northfield,Footwear > Boots,120.54,Black,9,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10094,VC-10094-E,V-E,Chelsea Boot,Northfield,Footwear > Boots,115.54,Black,11,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10094,VC-10094-F,V-F,Chelsea Boot,Northfield,Footwear > Boots,118.54,Tan,7,out_of_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10094,VC-10094-G,V-G,Chelsea Boot,Northfield,Footwear > Boots,116.54,Tan,8,out_of_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10094,VC-10094-H,V-H,Chelsea Boot,Northfield,Footwear > Boots,118.54,Tan,9,out_of_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10094,VC-10094-I,V-I,Chelsea Boot,Northfield,Footwear > Boots,123.54,Tan,11,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10094,VC-10094-J,V-J,Chelsea Boot,Northfield,Footwear > Boots,118.54,Brown,6,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10094,VC-10094-K,V-K,Chelsea Boot,Northfield,Footwear > Boots,118.54,Brown,7,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10094,VC-10094-L,V-L,Chelsea Boot,Northfield,Footwear > Boots,115.54,Brown,9,out_of_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10094,VC-10094-M,V-M,Chelsea Boot,Northfield,Footwear > Boots,118.54,Brown,10,out_of_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z
+IT-10094,VC-10094-N,V-N,Chelsea Boot,Northfield,Footwear > Boots,120.54,Brown,11,in_stock,,catalog_extract_20260922_0600.csv,2026-09-22T06:05:00Z

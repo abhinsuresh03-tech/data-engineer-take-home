@@ -1,0 +1,6 @@
+Flask
+requests
+psycopg2-binary
+numpy
+faiss-cpu
+sentence-transformers

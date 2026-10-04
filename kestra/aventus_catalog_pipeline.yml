@@ -1,0 +1,79 @@
+id: aventus_catalog_pipeline
+namespace: aventus
+
+description: >
+  Orchestrates the Aventus catalog pipeline with PostgreSQL validation,
+  idempotent enrichment, retries, and data-quality checks.
+
+tasks:
+  - id: pipeline_start
+    type: io.kestra.plugin.core.log.Log
+    message: "Aventus catalog pipeline started"
+
+  - id: check_postgres
+    type: io.kestra.plugin.jdbc.postgresql.Query
+    url: jdbc:postgresql://host.docker.internal:5432/varient
+    username: postgres
+    password: "{{ envs.postgres_password }}"
+    sql: |
+      SELECT COUNT(*) AS total_variants
+      FROM variant_summary;
+    fetchType: FETCH
+
+  - id: run_enrichment
+    type: io.kestra.plugin.scripts.python.Commands
+
+    namespaceFiles:
+      enabled: true
+
+    containerImage: python:3.11-slim
+
+    dependencies:
+      - requests
+      - psycopg2-binary
+
+    env:
+      DB_HOST: host.docker.internal
+      DB_PORT: "5432"
+      DB_NAME: varient
+      DB_USER: postgres
+      DB_PASSWORD: "{{ envs.postgres_password }}"
+      ENRICHMENT_API_URL: http://host.docker.internal:8000
+
+    commands:
+      - python enrichment.py
+
+    retry:
+      type: constant
+      interval: PT10S
+      maxAttempts: 3
+
+  - id: validate_pipeline
+    type: io.kestra.plugin.jdbc.postgresql.Query
+    url: jdbc:postgresql://host.docker.internal:5432/varient
+    username: postgres
+    password: "{{ envs.postgres_password }}"
+    sql: |
+      SELECT
+          (SELECT COUNT(*)
+           FROM variant_summary) AS total_variants,
+
+          (SELECT COUNT(DISTINCT variant_code)
+           FROM variant_enrichment
+           WHERE status = 'success') AS successfully_enriched,
+
+          (
+              SELECT COUNT(*)
+              FROM variant_summary vs
+              WHERE NOT EXISTS (
+                  SELECT 1
+                  FROM variant_enrichment ve
+                  WHERE ve.variant_code = vs.variant_code
+                    AND ve.status = 'success'
+              )
+          ) AS remaining_variants;
+    fetchType: FETCH
+
+  - id: pipeline_complete
+    type: io.kestra.plugin.core.log.Log
+    message: "Aventus catalog pipeline completed successfully"
