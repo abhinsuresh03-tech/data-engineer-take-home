@@ -249,7 +249,6 @@ DB_PASSWORD=<password>
 ENRICHMENT_API_URL=http://127.0.0.1:8000
 ENRICHMENT_API_KEY=test_key
 
-Do not commit real credentials.
 
 Run the Mock API
 python mock_api/app.py
