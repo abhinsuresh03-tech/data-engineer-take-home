@@ -10,7 +10,6 @@ Serves on `http://127.0.0.1:8000`.
 - `GET /enrich/<variant_code>` — requires header `X-Api-Key: <any string>`
 - `GET /health` — plain health check, no key required
 
-This is a stand-in for a real third-party enrichment provider. Don't assume it's well-behaved.
 
 
 # Aventus Data Engineering Take-Home Assessment
